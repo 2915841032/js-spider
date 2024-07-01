@@ -2,7 +2,7 @@
 import execjs
 
 # 读取 JavaScript 文件内容
-with open('1.js', 'r', encoding='utf-8') as file:
+with open('1.js', 'r', encoding='utf-8-sig') as file:
     javascript_code = file.read()
 
 # 创建 Context 对象
