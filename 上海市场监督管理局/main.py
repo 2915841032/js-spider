@@ -6,7 +6,7 @@ res=execjs.compile(data).call('sign')
 sign=res['sign']
 timestamp=res['Timestamp']
 print(len(sign),timestamp)
-headers = headers = {
+headers = {
     "Accept": "application/json, text/plain, */*",
     "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
     "Cache-Control": "no-cache",
