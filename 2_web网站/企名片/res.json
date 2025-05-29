@@ -1,0 +1,225 @@
+{
+    "list": [
+        {
+            "name": "深创投",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202006/jigou5ed9c36ea503c388162709.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1746937720&Signature=l5gv9itEO0A%2BSS9xnJzU1PFU7TI%3D",
+            "money_type": "人民币",
+            "area": "深圳",
+            "found_year": "1999",
+            "jg_type": "政府引导基金、VC、PE",
+            "tz_jieduan": "初创期、成长期",
+            "num": "1853",
+            "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=99fe4767812a5edea143e3a80159d510&id=7a65299129e86e2a3e2baeb7bec36712"
+        },
+        {
+            "name": "HongShan红杉中国",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202312/jigou657027acca12d372473627.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1746937720&Signature=3ARoxXvZ931oofzALXwuddTjDwg%3D",
+            "money_type": "人民币",
+            "area": "北京",
+            "found_year": "2005",
+            "jg_type": "市场化母基金、VC、PE",
+            "tz_jieduan": "初创期、成长期、成熟期",
+            "num": "1834",
+            "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=4b1c54ebfbdd53d6a0af12a37b98d5d4&id=a8d12f114305bd75e39f9e3abec13c6b"
+        },
+        {
+            "name": "腾讯投资",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202206/jigou6296d182a555b642786055.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1746937720&Signature=uBhkH100eC%2Bd3XoNT7vb8Gb3z8o%3D",
+            "money_type": "人民币、美元",
+            "area": "深圳",
+            "found_year": "2008",
+            "jg_type": "CVC",
+            "tz_jieduan": "初创期、成长期",
+            "num": "1675",
+            "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=8577e8587d5d5be8809e3d26a42419ac&id=8fc80fa3b229f9160f1186fb428e1dc7"
+        },
+        {
+            "name": "IDG资本",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202504/img67f893b93b704191236797.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1746937720&Signature=AycxAtshp4J0W3ZduNmIoiuPlDQ%3D",
+            "money_type": "人民币、美元",
+            "area": "北京",
+            "found_year": "1993",
+            "jg_type": "VC、PE",
+            "tz_jieduan": "初创期、成长期、成熟期",
+            "num": "1580",
+            "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=a8fae636163a56ad87b8ea6394b39e0c&id=8f723a76fb81fdf5d1471c6ac61cda77"
+        },
+        {
+            "name": "经纬创投",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202407/img668350132a399051058067.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1746937720&Signature=lQB6YbXB4XUxctuG9PFbTTqbIwM%3D",
+            "money_type": "美元、人民币",
+            "area": "北京",
+            "found_year": "2008",
+            "jg_type": "VC",
+            "tz_jieduan": "初创期、成长期",
+            "num": "1302",
+            "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=742e103c9459538da64aa07e6be4609c&id=3a50ab9902e171c8869be338ec7affc9"
+        },
+        {
+            "name": "真格基金",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/201809/jigou5b9797eb57f65061592844.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1746937720&Signature=fb%2BQ21ugfMYN2a2IUIWzft0zVjg%3D",
+            "money_type": "美元、人民币",
+            "area": "北京",
+            "found_year": "2011",
+            "jg_type": "早期投资机构",
+            "tz_jieduan": "初创期",
+            "num": "1236",
+            "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=9d0d164ddf06545bbc29e92e58b95599&id=2910664dbc20c01ba4d6944d64b9bec2"
+        },
+        {
+            "name": "达晨财智",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202010/jigou5f8005c2d6d3b159123440.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1746937720&Signature=dXKkMDwvA5oGtT8vWrkyKUIZr2U%3D",
+            "money_type": "人民币、美元",
+            "area": "深圳",
+            "found_year": "2000",
+            "jg_type": "VC、国资",
+            "tz_jieduan": "成长期",
+            "num": "939",
+            "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=b6e4d3d8e9d55dd38d667c9bcde4099f&id=a721ea848a1832e05d4ab62a239f6669"
+        },
+        {
+            "name": "同创伟业",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202009/jigou5f4df3e600949518614494.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1746937720&Signature=gek7wB6bVT2yliViHxXDAgfhYPo%3D",
+            "money_type": "人民币、美元",
+            "area": "深圳",
+            "found_year": "2000",
+            "jg_type": "VC、PE",
+            "tz_jieduan": "初创期、成长期",
+            "num": "902",
+            "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=388b4cd5e9d6589da3c2cfb39bbfdb43&id=a14e0bf834246122f119451d3e7e6d0d"
+        },
+        {
+            "name": "毅达资本",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202207/jigou62e25012c545d366403234.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1746937720&Signature=Firi020kjQQXM7T%2BUuGZRAIzf3Q%3D",
+            "money_type": "人民币",
+            "area": "南京",
+            "found_year": "1992",
+            "jg_type": "政府引导基金、VC、PE",
+            "tz_jieduan": "初创期、成长期",
+            "num": "879",
+            "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=622642b315575963a169ac43d11d4e4c&id=b15f11c942ef7c5516b52ce83c53e259"
+        },
+        {
+            "name": "顺为资本",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202011/jigou5faa7c32f0a1c859129474.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1746937720&Signature=3t8V4PoCXIdPVAWCos%2F5KACTpSE%3D",
+            "money_type": "人民币、美元",
+            "area": "北京",
+            "found_year": "2011",
+            "jg_type": "VC",
+            "tz_jieduan": "初创期、成长期",
+            "num": "877",
+            "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=de6f803f08f0504181436577e9faca03&id=321f4243c8892334bded1dd28af1eb83"
+        },
+        {
+            "name": "紫金科创",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/201809/jigou5b9797adb73c8608692564.jpg?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1746937720&Signature=WPfYx78WUkaA41HOSKF3OUZCWlk%3D",
+            "money_type": "人民币",
+            "area": "南京",
+            "found_year": "2011",
+            "jg_type": "VC、政府引导基金",
+            "tz_jieduan": "初创期、成长期",
+            "num": "860",
+            "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=99d7a4dfe3a053ca8f3c2aa86578625f&id=518753bdd0d533e9a03e38ddb126dda9"
+        },
+        {
+            "name": "君联资本",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202210/jigou6347da9ca5ee4869754359.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1746937720&Signature=VbOhGnd1FBs%2BhTTw5Q8u%2F94wKa4%3D",
+            "money_type": "人民币",
+            "area": "北京",
+            "found_year": "2001",
+            "jg_type": "VC",
+            "tz_jieduan": "成长期、初创期",
+            "num": "859",
+            "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=0b0ad1bf7bc45822a9b34918e931fd01&id=828161b454482ce8d67c17e76b5d0194"
+        },
+        {
+            "name": "纪源资本",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202309/jigou650cf2cb9bd58106866804.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1746937720&Signature=ehWAf3XdnUZBNLAYYYO77J5V5AA%3D",
+            "money_type": "美元、人民币",
+            "area": "上海",
+            "found_year": "2000",
+            "jg_type": "VC",
+            "tz_jieduan": "初创期、种子期、成长期",
+            "num": "830",
+            "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=c03f947873ba5122990396350304c9b3&id=0759a0ffeccffaae33e89357b0b94515"
+        },
+        {
+            "name": "启明创投",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202004/jigou5e97030ca473a484478239.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1746937720&Signature=K4KbdiNPBWJPw53eKM%2FDVXxAvPA%3D",
+            "money_type": "美元、人民币",
+            "area": "上海",
+            "found_year": "2006",
+            "jg_type": "VC",
+            "tz_jieduan": "初创期、成长期",
+            "num": "815",
+            "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=0774155477205eb8b2fe03391b8fb63c&id=da893648ab4e77002cfe787de44fa312"
+        },
+        {
+            "name": "东方富海",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202210/jigou635651baeeedb562998934.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1746937720&Signature=NGYgGY07rRHWqs3ms3cT%2Bqgw9pQ%3D",
+            "money_type": "人民币",
+            "area": "深圳",
+            "found_year": "2006",
+            "jg_type": "PE",
+            "tz_jieduan": "成长期、成熟期",
+            "num": "809",
+            "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=d8aa1bf221a35909aa10da635f31c841&id=13254b41c00c3a495c73d9ed1ff1acac"
+        },
+        {
+            "name": "险峰长青",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202404/img6621e39e7658e984095421.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1746937720&Signature=bV1WCk89VZmls%2Fp8emKvb15QGbc%3D",
+            "money_type": "人民币、美元",
+            "area": "北京",
+            "found_year": "2010",
+            "jg_type": "早期投资机构",
+            "tz_jieduan": "初创期",
+            "num": "788",
+            "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=a0acfa622c1d5a92bacf3398ee459f95&id=e20062e9c4df79c474a7bd84341e84a0"
+        },
+        {
+            "name": "中信证券",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202109/jigou61356cdc656fb146537621.jpeg?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1746937720&Signature=%2BrFfOirq7AR9%2FR1JkWzC6oGOR3U%3D",
+            "money_type": "人民币",
+            "area": "北京",
+            "found_year": "1995",
+            "jg_type": "券商",
+            "tz_jieduan": "成长期、成熟期",
+            "num": "730",
+            "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=5d107f9d726a5580a9f56ff57bcddb96&id=b158c136532eaf8302529485418bc421"
+        },
+        {
+            "name": "创新工场",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/201809/jigou5b9797d6799cf872790329.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1746937720&Signature=0MAHMwV%2BBQyM7FjluNqFghf5A8Y%3D",
+            "money_type": "美元、人民币",
+            "area": "北京",
+            "found_year": "2009",
+            "jg_type": "早期投资机构、VC",
+            "tz_jieduan": "初创期",
+            "num": "682",
+            "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=9c83ac95db7558aa9b251d8a7252dadd&id=a1db9f78e168f5ea6f0ac9b6b6facd2f"
+        },
+        {
+            "name": "梅花创投",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202004/jigou5e96db2f3dfdf974949642.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1746937720&Signature=aBG3Q10ADm7cfg2w43e1yBI7Y7g%3D",
+            "money_type": "人民币、美元",
+            "area": "北京",
+            "found_year": "2014",
+            "jg_type": "早期投资机构",
+            "tz_jieduan": "初创期",
+            "num": "679",
+            "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=336ae9cc49da52739f1a35db4257dd2d&id=c5559fbfa2521258ac4d3a70516b8fb0"
+        },
+        {
+            "name": "英诺天使基金",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202109/jigou6136c9fb173cc816064891.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1746937720&Signature=1LQB9g5clqmWXHJALqdXaMZdGGY%3D",
+            "money_type": "人民币",
+            "area": "北京",
+            "found_year": "2013",
+            "jg_type": "早期投资机构",
+            "tz_jieduan": "初创期",
+            "num": "662",
+            "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=66adef69e9da56ccac938e016c249157&id=0279cb3ff5cedbd5a210f0c8c0049000"
+        }
+    ],
+    "type": "1"
+}

@@ -1,0 +1,35 @@
+﻿window = globalThis
+window.addEventListener = function(a,b){}
+window.RTCPeerConnection = function(){}
+window.RTCPeerConnection.prototype.createDataChannel = function(){}
+window.RTCPeerConnection.prototype.createOffer = function(){
+}
+window.RTCPeerConnection.prototype.setLocalDescription = function(desc){
+}
+localStorage = {}
+sessionStorage = {}
+Storage = function(){}
+Storage.prototype.getItem = function(key){
+    return this[key]
+}
+Storage.prototype.setItem = function(key, value){
+    this[key] = value
+}
+Storage.prototype.removeItem = function(key){
+    delete this[key]
+}
+localStorage.__proto__ = Storage.prototype
+sessionStorage.__proto__ = Storage.prototype
+XMLHttpRequest = function(){}
+document = {}
+document.cookie = ""
+document.currentScript = {}
+history = {}
+screen = {}
+HTMLElement = function(){}
+HTMLElement.prototype.offsetWidth = 0
+HTMLElement.prototype.offsetHeight = 0
+HTMLDivElement = function(){}
+OfflineAudioContext = function(){}
+document.referrer = ""
+document.head = {}

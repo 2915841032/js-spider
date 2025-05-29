@@ -1,0 +1,225 @@
+{
+    "code": 0,
+    "data": {
+        "list": [
+            {
+                "id": 2719838,
+                "picUrl": "https://oss.agilestudio.cn/video-pic/px_1d6498dcc9e8462ced974744485043ae/px_1d6498dcc9e8462ced974744485043ae-007.jpg?auth_key=1748094199340-0-0-8b4dec0fcf85e686323015c56eb747bc",
+                "time": 18240,
+                "video": {
+                    "bucket": "clip-repo",
+                    "doubanId": 0,
+                    "doubanType": "",
+                    "duration": 22000,
+                    "id": 26703,
+                    "name": "Steam Train Going through Forest",
+                    "rawUrl": "px_1d6498dcc9e8462ced974744485043ae.mp4",
+                    "serverId": 4,
+                    "url": "https://oss.agilestudio.cn/fse-videos/pixabay/px_1d6498dcc9e8462ced974744485043ae/px_1d6498dcc9e8462ced974744485043ae.m3u8?auth_key=1748094199342-0-0-887ba905a22079ae2a230939be40e250",
+                    "vipFlag": 1,
+                    "vtype": 4
+                }
+            },
+            {
+                "id": 540450,
+                "picUrl": "https://oss.agilestudio.cn/video-pic/Railway-4106/Railway-4106-003.jpg?auth_key=1748094199343-0-0-af6b9a536720e11a93e7fa7922f16af7",
+                "time": 3000,
+                "video": {
+                    "bucket": "clip-repo",
+                    "doubanId": 0,
+                    "doubanType": "",
+                    "duration": 44680,
+                    "id": 14755,
+                    "name": "Railway",
+                    "rawUrl": "Railway-4106.mp4",
+                    "serverId": 4,
+                    "url": "https://oss.agilestudio.cn/fse-videos/pixabay/Railway-4106/Railway-4106.m3u8?auth_key=1748094199345-0-0-c89f51330894a4e952c3dce779420c9c",
+                    "vipFlag": 0,
+                    "vtype": 4
+                }
+            },
+            {
+                "id": 80722,
+                "picUrl": "https://oss.agilestudio.cn/video-pic/342_20277091_2_1814af/342_20277091_2_1814af-197.jpg?auth_key=1748094199347-0-0-30a004ad05709cf24e01270eacf079f3",
+                "time": 978186,
+                "video": {
+                    "bucket": "caption-in-video",
+                    "doubanId": 20277091,
+                    "doubanType": "纪录片 / 传记 / 历史",
+                    "duration": 5282559,
+                    "id": 79,
+                    "name": "美国商业大亨传奇 The Men Who Built America 第2集: 第二部分",
+                    "rawUrl": "342_20277091_2_1814af.mp4",
+                    "serverId": 3,
+                    "url": "https://ssv-video.agilestudio.cn/342_20277091_2_1814af/342_20277091_2_1814af.m3u8",
+                    "vipFlag": 0,
+                    "vtype": 3
+                }
+            },
+            {
+                "id": 79693,
+                "picUrl": "https://oss.agilestudio.cn/video-pic/342_20277091_1_7b94e9/342_20277091_1_7b94e9-184.jpg?auth_key=1748094199351-0-0-73e1d54a52e30e7a5588204a0742ee2a",
+                "time": 843885,
+                "video": {
+                    "bucket": "caption-in-video",
+                    "doubanId": 20277091,
+                    "doubanType": "纪录片 / 传记 / 历史",
+                    "duration": 5206700,
+                    "id": 78,
+                    "name": "美国商业大亨传奇 The Men Who Built America 第1集: 第一部分",
+                    "rawUrl": "342_20277091_1_7b94e9.mp4",
+                    "serverId": 3,
+                    "url": "https://ssv-video.agilestudio.cn/342_20277091_1_7b94e9/342_20277091_1_7b94e9.m3u8",
+                    "vipFlag": 0,
+                    "vtype": 3
+                }
+            },
+            {
+                "id": 1007168,
+                "picUrl": "https://oss.agilestudio.cn/video-pic/1080_CbOoKj/1080_CbOoKj-1966.jpg?auth_key=1748094199354-0-0-f1d735fb53eabcd5e98605662ce56148",
+                "time": 5270917,
+                "video": {
+                    "bucket": "caption-in-video",
+                    "doubanId": 26340419,
+                    "doubanType": "喜剧 / 动画 / 家庭",
+                    "duration": 6198020,
+                    "id": 21438,
+                    "name": "帕丁顿熊2",
+                    "rawUrl": "1080_CbOoKj.mkv",
+                    "serverId": 2,
+                    "url": "https://ssv-video.agilestudio.cn/1080_CbOoKj/1080_CbOoKj.m3u8",
+                    "vipFlag": 0,
+                    "vtype": 2
+                }
+            },
+            {
+                "id": 177415,
+                "picUrl": "https://oss.agilestudio.cn/video-pic/366_4822098_6_b0ff09/366_4822098_6_b0ff09-1012.jpg?auth_key=1748094199358-0-0-dbc6b2009a093c9add3ec90cd43ca3a0",
+                "time": 2626750,
+                "video": {
+                    "bucket": "caption-in-video",
+                    "doubanId": 4822098,
+                    "doubanType": "纪录片 / 历史",
+                    "duration": 2746560,
+                    "id": 195,
+                    "name": "美利坚：我们的故事 America: The Story of Us 第6集: 第6集",
+                    "rawUrl": "366_4822098_6_b0ff09.mkv",
+                    "serverId": 3,
+                    "url": "https://ssv-video.agilestudio.cn/366_4822098_6_b0ff09/366_4822098_6_b0ff09.m3u8",
+                    "vipFlag": 0,
+                    "vtype": 3
+                }
+            },
+            {
+                "id": 176809,
+                "picUrl": "https://oss.agilestudio.cn/video-pic/366_4822098_6_b0ff09/366_4822098_6_b0ff09-406.jpg?auth_key=1748094199361-0-0-f68db6f6d88839488b9cd21c5ae8addd",
+                "time": 1262805,
+                "video": {
+                    "bucket": "caption-in-video",
+                    "doubanId": 4822098,
+                    "doubanType": "纪录片 / 历史",
+                    "duration": 2746560,
+                    "id": 195,
+                    "name": "美利坚：我们的故事 America: The Story of Us 第6集: 第6集",
+                    "rawUrl": "366_4822098_6_b0ff09.mkv",
+                    "serverId": 3,
+                    "url": "https://ssv-video.agilestudio.cn/366_4822098_6_b0ff09/366_4822098_6_b0ff09.m3u8",
+                    "vipFlag": 0,
+                    "vtype": 3
+                }
+            },
+            {
+                "id": 1427483,
+                "picUrl": "https://oss.agilestudio.cn/video-pic/4859_bfc5fa/4859_bfc5fa-501.jpg?auth_key=1748094199365-0-0-bcf960781e0d12e224178e249306a6e6",
+                "time": 1429636,
+                "video": {
+                    "bucket": "caption-in-video",
+                    "doubanId": 3178770,
+                    "doubanType": "喜剧 / 动画 / 冒险",
+                    "duration": 5604270,
+                    "id": 21696,
+                    "name": "马达加斯加3",
+                    "rawUrl": "4859_bfc5fa.mp4",
+                    "serverId": 2,
+                    "url": "https://ssv-video.agilestudio.cn/4859_bfc5fa/4859_bfc5fa.m3u8",
+                    "vipFlag": 0,
+                    "vtype": 2
+                }
+            },
+            {
+                "id": 2698652,
+                "picUrl": "https://oss.agilestudio.cn/video-pic/px_243b6330fd76cc5b0c87ce20497d3ede/px_243b6330fd76cc5b0c87ce20497d3ede-001.jpg?auth_key=1748094199368-0-0-6c7961926114e97bb1da5338abd850e7",
+                "time": 0,
+                "video": {
+                    "bucket": "clip-repo",
+                    "doubanId": 0,
+                    "doubanType": "",
+                    "duration": 16090,
+                    "id": 23603,
+                    "name": "Old and Rusty Cargo Train Wagons",
+                    "rawUrl": "px_243b6330fd76cc5b0c87ce20497d3ede.mp4",
+                    "serverId": 4,
+                    "url": "https://oss.agilestudio.cn/fse-videos/pixabay/px_243b6330fd76cc5b0c87ce20497d3ede/px_243b6330fd76cc5b0c87ce20497d3ede.m3u8?auth_key=1748094199370-0-0-31c1902364ddbe1e1b96179fb9f41d9b",
+                    "vipFlag": 1,
+                    "vtype": 4
+                }
+            },
+            {
+                "id": 2702318,
+                "picUrl": "https://oss.agilestudio.cn/video-pic/px_25907207a8dca2025cc3fd19410095c5/px_25907207a8dca2025cc3fd19410095c5-006.jpg?auth_key=1748094199372-0-0-7b059d81a458bec8cc16083ee1d742a2",
+                "time": 15166,
+                "video": {
+                    "bucket": "clip-repo",
+                    "doubanId": 0,
+                    "doubanType": "",
+                    "duration": 23590,
+                    "id": 23758,
+                    "name": "Old Train in Town",
+                    "rawUrl": "px_25907207a8dca2025cc3fd19410095c5.mp4",
+                    "serverId": 4,
+                    "url": "https://oss.agilestudio.cn/fse-videos/pixabay/px_25907207a8dca2025cc3fd19410095c5/px_25907207a8dca2025cc3fd19410095c5.m3u8?auth_key=1748094199374-0-0-512e692544db7626d95a5266e9a63d85",
+                    "vipFlag": 1,
+                    "vtype": 4
+                }
+            },
+            {
+                "id": 988792,
+                "picUrl": "https://oss.agilestudio.cn/video-pic/1073_Gtzb81/1073_Gtzb81-072.jpg?auth_key=1748094199375-0-0-8461403b2ae5bc0732740755b07bbf48",
+                "time": 241824,
+                "video": {
+                    "bucket": "caption-in-video",
+                    "doubanId": 1309059,
+                    "doubanType": "剧情 / 爱情",
+                    "duration": 8708699,
+                    "id": 21431,
+                    "name": "艺伎回忆录",
+                    "rawUrl": "1073_Gtzb81.mp4",
+                    "serverId": 11,
+                    "url": "https://ssv-video.agilestudio.cn/1073_Gtzb81/1073_Gtzb81.m3u8",
+                    "vipFlag": 0,
+                    "vtype": 1
+                }
+            },
+            {
+                "id": 83693,
+                "picUrl": "https://oss.agilestudio.cn/video-pic/342_20277091_3_979f8b/342_20277091_3_979f8b-008.jpg?auth_key=1748094199379-0-0-e4fbe021fadb65c44fafb1415ea77066",
+                "time": 14432,
+                "video": {
+                    "bucket": "caption-in-video",
+                    "doubanId": 20277091,
+                    "doubanType": "纪录片 / 传记 / 历史",
+                    "duration": 5269310,
+                    "id": 80,
+                    "name": "美国商业大亨传奇 The Men Who Built America 第3集: 第三部分",
+                    "rawUrl": "342_20277091_3_979f8b.mkv",
+                    "serverId": 3,
+                    "url": "https://ssv-video.agilestudio.cn/342_20277091_3_979f8b/342_20277091_3_979f8b.m3u8",
+                    "vipFlag": 0,
+                    "vtype": 3
+                }
+            }
+        ],
+        "status": 0,
+        "total": 100
+    }
+}

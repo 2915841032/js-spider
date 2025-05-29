@@ -1,0 +1,1234 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "brandAggregation": null,
+    "subInfo": null,
+    "hasMore": true,
+    "emptyPrompt": "",
+    "searchTopicList": [],
+    "list": [
+      {
+        "jobName": "软件开发工程师-大数据（实习生2025届）",
+        "jobValidStatus": 1,
+        "jobExperience": "在校/应届",
+        "jobDegree": "硕士",
+        "cityName": "",
+        "districtName": "岳麓区",
+        "businessName": "麓谷",
+        "distance": "",
+        "lid": "8J2SkZNJSGQ.search.46",
+        "performance": "",
+        "salaryDesc": "120-150元/天",
+        "jobLabels": [
+          "5天/周",
+          "6个月",
+          "硕士",
+          "要求数据开发经验",
+          "Python"
+        ],
+        "highlightJobLabels": [
+          {
+            "content": "5天/周",
+            "highlight": false
+          },
+          {
+            "content": "6个月",
+            "highlight": false
+          },
+          {
+            "content": "硕士",
+            "highlight": false
+          },
+          {
+            "content": "要求数据开发经验",
+            "highlight": false
+          },
+          {
+            "content": "Python",
+            "highlight": false
+          }
+        ],
+        "jobType": 4,
+        "encryptJobId": "4a9de01dc9165f751H1-29-0EFdS",
+        "afterNameIcon": null,
+        "afterNameIcons": [],
+        "beforeNameIcons": [],
+        "picVideoList": [],
+        "positionName": null,
+        "commuteInfo": null,
+        "optimalTag": null,
+        "jobSource": 0,
+        "iconUrl": "",
+        "jobDesc": null,
+        "brandName": "中电湘江",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220401/7b5b554d84f9729cfb667c70ea95add1c8be67a72cc2d3ffb2e27b34f2ad783a9b5bedfa9d4a078f.jpg",
+        "brandStage": "不需要融资",
+        "brandScale": "100-499人",
+        "comName": null,
+        "bossName": "吴女士",
+        "bossTitle": "人力资源主管",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250109/607f1f3d68754fd031f13a0763bcb3b453c8684299a2bd94b2e27b34f2ad783a9b5bedfa9d4a078f_s.jpg.webp",
+        "bossCert": 0,
+        "activeMsg": "",
+        "bossOnline": null,
+        "proxyJob": 0,
+        "skills": [
+          "要求数据开发经验",
+          "Python",
+          "非外包类",
+          "数据仓库开发经验",
+          "Hive",
+          "HBase",
+          "医疗行业经验"
+        ],
+        "welfares": [],
+        "securityId": "JqYlDlklWFErf-S1W6OxWewxqCDRKx__vVUXwRt7KfPCEDr2ypoPjDX8U9yxdMHGRUOqQwY~",
+        "sessionId": "",
+        "replayRate": "",
+        "jobNameLineNumber": 2,
+        "bottomRcdReason": null,
+        "gps": {
+          "longitude": 112.855401,
+          "latitude": 28.235359
+        },
+        "highSalary": 150,
+        "salaryType": 2,
+        "businessCode": 408,
+        "dividerInfo": null
+      },
+      {
+        "jobName": "财务分析助理",
+        "jobValidStatus": 1,
+        "jobExperience": "在校/应届",
+        "jobDegree": "本科",
+        "cityName": "",
+        "districtName": "岳麓区",
+        "businessName": "洋湖垸",
+        "distance": "",
+        "lid": "8J2SkZNJSGQ.search.47",
+        "performance": "",
+        "salaryDesc": "3-6K",
+        "jobLabels": [
+          "在校/应届",
+          "本科",
+          "服从安排 学习能力"
+        ],
+        "highlightJobLabels": [
+          {
+            "content": "在校/应届",
+            "highlight": false
+          },
+          {
+            "content": "本科",
+            "highlight": false
+          },
+          {
+            "content": "服从安排 学习能力",
+            "highlight": false
+          }
+        ],
+        "jobType": 5,
+        "encryptJobId": "7d02184c57bd910a03Z72tW8EVFY",
+        "afterNameIcon": null,
+        "afterNameIcons": [
+          "https://img.bosszhipin.com/beijin/mcs/banner/4d77f815083a7850d8c5188f10b2ff0dcfcd208495d565ef66e7dff9f98764da.png"
+        ],
+        "beforeNameIcons": [],
+        "picVideoList": [],
+        "positionName": null,
+        "commuteInfo": null,
+        "optimalTag": null,
+        "jobSource": 0,
+        "iconUrl": "",
+        "jobDesc": null,
+        "brandName": "湖南沁信智作文化公司",
+        "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "brandStage": "",
+        "brandScale": "0-20人",
+        "comName": null,
+        "bossName": "杨先生",
+        "bossTitle": "总经理/技术总监",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230625/607f1f3d68754fd0c2e23983c0ac0cb7e18439d42c78f947db5e0555db55d2846b130f73bd5e4bab_s.png",
+        "bossCert": 0,
+        "activeMsg": "",
+        "bossOnline": null,
+        "proxyJob": 0,
+        "skills": [
+          "服从安排 学习能力"
+        ],
+        "welfares": [],
+        "securityId": "MTX8AnBHOspFr-o1Wg8ttqER1Z3-NEWHXevJSW4zgkhiPcu85VDDFuj0T5_EoBE0B3VUBtA~",
+        "sessionId": "",
+        "replayRate": "",
+        "jobNameLineNumber": 2,
+        "bottomRcdReason": null,
+        "gps": {
+          "longitude": 112.948897,
+          "latitude": 28.132297
+        },
+        "highSalary": 6,
+        "salaryType": 0,
+        "businessCode": 34829973,
+        "dividerInfo": null
+      },
+      {
+        "jobName": "金融数据专员实习生",
+        "jobValidStatus": 1,
+        "jobExperience": "在校/应届",
+        "jobDegree": "本科",
+        "cityName": "",
+        "districtName": "岳麓区",
+        "businessName": "银盆岭",
+        "distance": "",
+        "lid": "8J2SkZNJSGQ.search.48",
+        "performance": "",
+        "salaryDesc": "100-120元/天",
+        "jobLabels": [
+          "5天/周",
+          "6个月",
+          "本科",
+          "金融行业数据相关经验",
+          "SQL"
+        ],
+        "highlightJobLabels": [
+          {
+            "content": "5天/周",
+            "highlight": false
+          },
+          {
+            "content": "6个月",
+            "highlight": false
+          },
+          {
+            "content": "本科",
+            "highlight": false
+          },
+          {
+            "content": "金融行业数据相关经验",
+            "highlight": false
+          },
+          {
+            "content": "SQL",
+            "highlight": false
+          }
+        ],
+        "jobType": 4,
+        "encryptJobId": "4dbc83e6cff8b3381HN73dW_GVdU",
+        "afterNameIcon": null,
+        "afterNameIcons": [],
+        "beforeNameIcons": [],
+        "picVideoList": [],
+        "positionName": null,
+        "commuteInfo": null,
+        "optimalTag": null,
+        "jobSource": 0,
+        "iconUrl": "",
+        "jobDesc": null,
+        "brandName": "宽睿科技",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240118/7bf6f160950405e9183c34e928ed473f773cdecbb138eb077d5249e1fa6288462fc64a839fc43cd5.png.webp",
+        "brandStage": "C轮",
+        "brandScale": "20-99人",
+        "comName": null,
+        "bossName": "金女士",
+        "bossTitle": "招聘经理",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+        "bossCert": 0,
+        "activeMsg": "",
+        "bossOnline": null,
+        "proxyJob": 0,
+        "skills": [
+          "金融行业数据相关经验",
+          "SQL",
+          "Python",
+          "数学/统计相关专业"
+        ],
+        "welfares": [],
+        "securityId": "EUFbBKGM04l5L-d1avMWsqnUK5XCtWp1hfYJz4k1bHGLOhpN6GBS1P7m24RnkCmOEINON-0~",
+        "sessionId": "",
+        "replayRate": "",
+        "jobNameLineNumber": 2,
+        "bottomRcdReason": null,
+        "gps": {
+          "longitude": 112.960597,
+          "latitude": 28.242653
+        },
+        "highSalary": 120,
+        "salaryType": 2,
+        "businessCode": 109,
+        "dividerInfo": null
+      },
+      {
+        "jobName": "数据标注",
+        "jobValidStatus": 1,
+        "jobExperience": "在校/应届",
+        "jobDegree": "大专",
+        "cityName": "",
+        "districtName": "岳麓区",
+        "businessName": "麓谷",
+        "distance": "",
+        "lid": "8J2SkZNJSGQ.search.49",
+        "performance": "",
+        "salaryDesc": "90-100元/天",
+        "jobLabels": [
+          "5天/周",
+          "3个月",
+          "大专",
+          "数据标注",
+          "标注结果整理"
+        ],
+        "highlightJobLabels": [
+          {
+            "content": "5天/周",
+            "highlight": false
+          },
+          {
+            "content": "3个月",
+            "highlight": false
+          },
+          {
+            "content": "大专",
+            "highlight": false
+          },
+          {
+            "content": "数据标注",
+            "highlight": false
+          },
+          {
+            "content": "标注结果整理",
+            "highlight": false
+          }
+        ],
+        "jobType": 4,
+        "encryptJobId": "331d6381e7adebd003d_0tm8FFVR",
+        "afterNameIcon": null,
+        "afterNameIcons": [],
+        "beforeNameIcons": [],
+        "picVideoList": [],
+        "positionName": null,
+        "commuteInfo": null,
+        "optimalTag": null,
+        "jobSource": 0,
+        "iconUrl": "",
+        "jobDesc": null,
+        "brandName": "湖南球秀",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240628/7bf6f160950405e9aabdd1467b576f8c384b9ff5049697b7db809fcff01ab1893ed7a6ca36e16134.png.webp",
+        "brandStage": "天使轮",
+        "brandScale": "20-99人",
+        "comName": null,
+        "bossName": "谭女士",
+        "bossTitle": "人事",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+        "bossCert": 0,
+        "activeMsg": "",
+        "bossOnline": null,
+        "proxyJob": 0,
+        "skills": [
+          "数据标注",
+          "标注结果整理",
+          "图片标注",
+          "视频标注",
+          "描点标注",
+          "标框标注",
+          "区域标注",
+          "分类标注",
+          "数据分析能力强"
+        ],
+        "welfares": [],
+        "securityId": "OegwtyikCpC6H-v1ur1r690qB-kBUFRKYMHL0HsdPyyxAf8WN5gTg00plhYfIGV88uDUB44~",
+        "sessionId": "",
+        "replayRate": "",
+        "jobNameLineNumber": 2,
+        "bottomRcdReason": null,
+        "gps": {
+          "longitude": 112.885048,
+          "latitude": 28.228308
+        },
+        "highSalary": 100,
+        "salaryType": 2,
+        "businessCode": 408,
+        "dividerInfo": null
+      },
+      {
+        "jobName": "财务数据统计员",
+        "jobValidStatus": 1,
+        "jobExperience": "在校/应届",
+        "jobDegree": "大专",
+        "cityName": "长沙",
+        "districtName": null,
+        "businessName": null,
+        "distance": "",
+        "lid": "8J2SkZNJSGQ.search.50",
+        "performance": "",
+        "salaryDesc": "80-100元/天",
+        "jobLabels": [
+          "5天/周",
+          "1个月",
+          "大专",
+          "在校生，实习生均可。"
+        ],
+        "highlightJobLabels": [
+          {
+            "content": "5天/周",
+            "highlight": false
+          },
+          {
+            "content": "1个月",
+            "highlight": false
+          },
+          {
+            "content": "大专",
+            "highlight": false
+          },
+          {
+            "content": "在校生，实习生均可。",
+            "highlight": false
+          }
+        ],
+        "jobType": 4,
+        "encryptJobId": "1650cd336bdb0f6d1HNy29q6ElRV",
+        "afterNameIcon": null,
+        "afterNameIcons": [],
+        "beforeNameIcons": [],
+        "picVideoList": [],
+        "positionName": null,
+        "commuteInfo": null,
+        "optimalTag": null,
+        "jobSource": 0,
+        "iconUrl": "",
+        "jobDesc": null,
+        "brandName": "金龙电缆",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220317/7bf6f160950405e9a46cd292f203f45443f8f86b4bd16bec0bb8113ff118eb106f3dee971932516f.jpg",
+        "brandStage": "未融资",
+        "brandScale": "500-999人",
+        "comName": null,
+        "bossName": "吴先生",
+        "bossTitle": "人力资源负责人",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+        "bossCert": 0,
+        "activeMsg": "",
+        "bossOnline": null,
+        "proxyJob": 0,
+        "skills": [
+          "在校生，实习生均可。"
+        ],
+        "welfares": [],
+        "securityId": "vLpRjTl8fLUr2-G1CwD7rhixYw_agJ3Cr3W0xGimW2env2rhdtoX8DclQB8OKsP1MDTtRxEb",
+        "sessionId": "",
+        "replayRate": "",
+        "jobNameLineNumber": 2,
+        "bottomRcdReason": null,
+        "gps": {
+          "longitude": 112.852885,
+          "latitude": 28.311864
+        },
+        "highSalary": 100,
+        "salaryType": 2,
+        "businessCode": 0,
+        "dividerInfo": null
+      },
+      {
+        "jobName": "数据整理（实习）",
+        "jobValidStatus": 1,
+        "jobExperience": "在校/应届",
+        "jobDegree": "大专",
+        "cityName": "",
+        "districtName": "开福区",
+        "businessName": "月湖",
+        "distance": "",
+        "lid": "8J2SkZNJSGQ.search.51",
+        "performance": "",
+        "salaryDesc": "2-3K",
+        "jobLabels": [
+          "在校/应届",
+          "大专",
+          "接受实习/在校生投递"
+        ],
+        "highlightJobLabels": [
+          {
+            "content": "在校/应届",
+            "highlight": false
+          },
+          {
+            "content": "大专",
+            "highlight": false
+          },
+          {
+            "content": "接受实习/在校生投递",
+            "highlight": false
+          }
+        ],
+        "jobType": 5,
+        "encryptJobId": "e52063704575986203Rz3924E1pV",
+        "afterNameIcon": null,
+        "afterNameIcons": [
+          "https://img.bosszhipin.com/beijin/mcs/banner/4d77f815083a7850d8c5188f10b2ff0dcfcd208495d565ef66e7dff9f98764da.png"
+        ],
+        "beforeNameIcons": [],
+        "picVideoList": [],
+        "positionName": null,
+        "commuteInfo": null,
+        "optimalTag": null,
+        "jobSource": 0,
+        "iconUrl": "",
+        "jobDesc": null,
+        "brandName": "菁锐智能",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220727/7bf6f160950405e93ac95b55c90cc489bf5024ffaaa5939fcdb06603030c52e054e55483d7e92872.jpg",
+        "brandStage": "未融资",
+        "brandScale": "20-99人",
+        "comName": null,
+        "bossName": "梁女士",
+        "bossTitle": "人事",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240528/607f1f3d68754fd0def12a450d2e07848a0423e12b16c7c3ebcd0c199781005e367ff23b5d6ad90c_s.png.webp",
+        "bossCert": 0,
+        "activeMsg": "",
+        "bossOnline": {
+          "listingOnline": {
+            "onlineImgUrl": "https://img.bosszhipin.com/beijin/mcs/banner/a403e91441cbb05c6894e9f5593291fdcfcd208495d565ef66e7dff9f98764da.png",
+            "widthPx": 132,
+            "heightPx": 51
+          },
+          "detailOnline": {
+            "onlineImgUrl": "https://img.bosszhipin.com/beijin/mcs/banner/a403e91441cbb05c6894e9f5593291fdcfcd208495d565ef66e7dff9f98764da.png",
+            "widthPx": 132,
+            "heightPx": 51
+          }
+        },
+        "proxyJob": 0,
+        "skills": [
+          "接受实习/在校生投递"
+        ],
+        "welfares": [],
+        "securityId": "Y6YAleQw6vyt2-61oiknq1EPqdylESvpZCY-IY-BhA4yohS743eOjdAdNSdhIQPPOunxTUCzFRayzU0Y9XSLJOMZuKrzEN--YbaC55mBMvY8",
+        "sessionId": "",
+        "replayRate": "",
+        "jobNameLineNumber": 2,
+        "bottomRcdReason": null,
+        "gps": {
+          "longitude": 113.030674,
+          "latitude": 28.230968
+        },
+        "highSalary": 3,
+        "salaryType": 0,
+        "businessCode": 34619217,
+        "dividerInfo": null
+      },
+      {
+        "jobName": "AI数据标注实习生",
+        "jobValidStatus": 1,
+        "jobExperience": "在校/应届",
+        "jobDegree": "本科",
+        "cityName": "",
+        "districtName": "岳麓区",
+        "businessName": "望城坡",
+        "distance": "",
+        "lid": "8J2SkZNJSGQ.search.52",
+        "performance": "",
+        "salaryDesc": "120-150元/天",
+        "jobLabels": [
+          "5天/周",
+          "3个月",
+          "本科"
+        ],
+        "highlightJobLabels": [
+          {
+            "content": "5天/周",
+            "highlight": false
+          },
+          {
+            "content": "3个月",
+            "highlight": false
+          },
+          {
+            "content": "本科",
+            "highlight": false
+          }
+        ],
+        "jobType": 4,
+        "encryptJobId": "e71a66f80441d46903B-3ti-E1BS",
+        "afterNameIcon": null,
+        "afterNameIcons": [],
+        "beforeNameIcons": [],
+        "picVideoList": [],
+        "positionName": null,
+        "commuteInfo": null,
+        "optimalTag": null,
+        "jobSource": 0,
+        "iconUrl": "",
+        "jobDesc": null,
+        "brandName": "Anker",
+        "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/eccf87304cf817c6d52b80861b29f56bcfcd208495d565ef66e7dff9f98764da.png",
+        "brandStage": "已上市",
+        "brandScale": "1000-9999人",
+        "comName": null,
+        "bossName": "李女士",
+        "bossTitle": "HR",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+        "bossCert": 0,
+        "activeMsg": "",
+        "bossOnline": null,
+        "proxyJob": 0,
+        "skills": [],
+        "welfares": [],
+        "securityId": "4PHgVgFRucjU8-W1boTdB_Y_qkLFYoUaUCsqCLpeU_1hinCV-rE2Z-8h92Qbf1dIjAQOROTQ",
+        "sessionId": "",
+        "replayRate": "",
+        "jobNameLineNumber": 2,
+        "bottomRcdReason": null,
+        "gps": {
+          "longitude": 112.883009,
+          "latitude": 28.228608
+        },
+        "highSalary": 150,
+        "salaryType": 2,
+        "businessCode": 297,
+        "dividerInfo": null
+      },
+      {
+        "jobName": "数据处理实习生",
+        "jobValidStatus": 1,
+        "jobExperience": "在校/应届",
+        "jobDegree": "大专",
+        "cityName": "",
+        "districtName": "天心区",
+        "businessName": "云塘理工",
+        "distance": "",
+        "lid": "8J2SkZNJSGQ.search.53",
+        "performance": "",
+        "salaryDesc": "100-110元/天",
+        "jobLabels": [
+          "5天/周",
+          "2个月",
+          "大专",
+          "采集，数据，gis"
+        ],
+        "highlightJobLabels": [
+          {
+            "content": "5天/周",
+            "highlight": false
+          },
+          {
+            "content": "2个月",
+            "highlight": false
+          },
+          {
+            "content": "大专",
+            "highlight": false
+          },
+          {
+            "content": "采集，数据，gis",
+            "highlight": false
+          }
+        ],
+        "jobType": 4,
+        "encryptJobId": "55c1e3ae56b2f7ed1Xx_3ti9ElZZ",
+        "afterNameIcon": null,
+        "afterNameIcons": [],
+        "beforeNameIcons": [],
+        "picVideoList": [],
+        "positionName": null,
+        "commuteInfo": null,
+        "optimalTag": null,
+        "jobSource": 0,
+        "iconUrl": "",
+        "jobDesc": null,
+        "brandName": "宇晰信息",
+        "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "brandStage": "",
+        "brandScale": "0-20人",
+        "comName": null,
+        "bossName": "李先生",
+        "bossTitle": "招聘者",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240918/607f1f3d68754fd0ac7bdf2f0ed46948ad71243b46532576d9c24a3b2546262013fda02a4af691ef_s.png.webp",
+        "bossCert": 0,
+        "activeMsg": "",
+        "bossOnline": null,
+        "proxyJob": 0,
+        "skills": [
+          "采集，数据，gis"
+        ],
+        "welfares": [],
+        "securityId": "S1UUhHCt1ornW-L1-TdNV1I_7sMmq3FsN9cR2DEnL1HqEPp98hYO3yNWXn7_nWqdWS1XGWyM",
+        "sessionId": "",
+        "replayRate": "",
+        "jobNameLineNumber": 2,
+        "bottomRcdReason": null,
+        "gps": {
+          "longitude": 112.994168,
+          "latitude": 28.053506
+        },
+        "highSalary": 110,
+        "salaryType": 2,
+        "businessCode": 34606952,
+        "dividerInfo": null
+      },
+      {
+        "jobName": "数据标注实习生",
+        "jobValidStatus": 1,
+        "jobExperience": "在校/应届",
+        "jobDegree": "大专",
+        "cityName": "",
+        "districtName": "岳麓区",
+        "businessName": "麓谷",
+        "distance": "",
+        "lid": "8J2SkZNJSGQ.search.54",
+        "performance": "",
+        "salaryDesc": "80-160元/天",
+        "jobLabels": [
+          "5天/周",
+          "3个月",
+          "大专",
+          "数据标注",
+          "图片标注"
+        ],
+        "highlightJobLabels": [
+          {
+            "content": "5天/周",
+            "highlight": false
+          },
+          {
+            "content": "3个月",
+            "highlight": false
+          },
+          {
+            "content": "大专",
+            "highlight": false
+          },
+          {
+            "content": "数据标注",
+            "highlight": false
+          },
+          {
+            "content": "图片标注",
+            "highlight": false
+          }
+        ],
+        "jobType": 4,
+        "encryptJobId": "d0fc5d10489252b603Z82Ny8FVNW",
+        "afterNameIcon": null,
+        "afterNameIcons": [],
+        "beforeNameIcons": [],
+        "picVideoList": [],
+        "positionName": null,
+        "commuteInfo": null,
+        "optimalTag": null,
+        "jobSource": 0,
+        "iconUrl": "",
+        "jobDesc": null,
+        "brandName": "湖南中科师创产教...",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250312/7bf6f160950405e9abd708c76a54375d83054e139ad89f302077125d0eca106a6c9baff84aa920f7.png.webp",
+        "brandStage": "未融资",
+        "brandScale": "0-20人",
+        "comName": null,
+        "bossName": "张女士",
+        "bossTitle": "招聘者",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250323/607f1f3d68754fd0ff08bd8a9b2a457efbf1ffa00bf687e12077125d0eca106a6c9baff84aa920f7_s.png.webp",
+        "bossCert": 0,
+        "activeMsg": "",
+        "bossOnline": null,
+        "proxyJob": 0,
+        "skills": [
+          "数据标注",
+          "图片标注",
+          "文本标注",
+          "视频标注",
+          "标框标注",
+          "接受加班",
+          "不接受居家办公"
+        ],
+        "welfares": [],
+        "securityId": "hz3sObLVMMfH2-N1B3VvbcKpD82WC2BYda6WZ4A8Np0nLcg4VKEdT4xbHAC2cafiKVDuQ7j7",
+        "sessionId": "",
+        "replayRate": "",
+        "jobNameLineNumber": 2,
+        "bottomRcdReason": null,
+        "gps": {
+          "longitude": 112.855496,
+          "latitude": 28.243036
+        },
+        "highSalary": 160,
+        "salaryType": 2,
+        "businessCode": 408,
+        "dividerInfo": null
+      },
+      {
+        "jobName": "地图数据标注（葡萄牙语专业）",
+        "jobValidStatus": 1,
+        "jobExperience": "在校/应届",
+        "jobDegree": "本科",
+        "cityName": "",
+        "districtName": "岳麓区",
+        "businessName": "麓谷",
+        "distance": "",
+        "lid": "8J2SkZNJSGQ.search.55",
+        "performance": "",
+        "salaryDesc": "200-250元/天",
+        "jobLabels": [
+          "6天/周",
+          "3个月",
+          "本科"
+        ],
+        "highlightJobLabels": [
+          {
+            "content": "6天/周",
+            "highlight": false
+          },
+          {
+            "content": "3个月",
+            "highlight": false
+          },
+          {
+            "content": "本科",
+            "highlight": false
+          }
+        ],
+        "jobType": 4,
+        "encryptJobId": "a50387fdd95c738503d92ti1EVtZ",
+        "afterNameIcon": null,
+        "afterNameIcons": [],
+        "beforeNameIcons": [],
+        "picVideoList": [],
+        "positionName": null,
+        "commuteInfo": null,
+        "optimalTag": null,
+        "jobSource": 0,
+        "iconUrl": "",
+        "jobDesc": null,
+        "brandName": "谱蓝科技",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240201/7bf6f160950405e969e406a0b6957efeb834b650255f7cd84330dcfb40d53eb755d5935d81da0e39.png.webp",
+        "brandStage": "未融资",
+        "brandScale": "500-999人",
+        "comName": null,
+        "bossName": "雷女士",
+        "bossTitle": "人事",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+        "bossCert": 0,
+        "activeMsg": "",
+        "bossOnline": null,
+        "proxyJob": 0,
+        "skills": [],
+        "welfares": [],
+        "securityId": "UnDOR9Y9_uNBb-a1s4JRkc96dyU1Xxa2cDDDLYdTTp4_RJ5pEyXSjWjYB3DyLMrcd-Z1mms~",
+        "sessionId": "",
+        "replayRate": "",
+        "jobNameLineNumber": 2,
+        "bottomRcdReason": null,
+        "gps": {
+          "longitude": 112.882026,
+          "latitude": 28.232
+        },
+        "highSalary": 250,
+        "salaryType": 2,
+        "businessCode": 408,
+        "dividerInfo": null
+      },
+      {
+        "jobName": "数据标注实习生",
+        "jobValidStatus": 1,
+        "jobExperience": "在校/应届",
+        "jobDegree": "本科",
+        "cityName": "",
+        "districtName": "开福区",
+        "businessName": "四方坪",
+        "distance": "",
+        "lid": "8J2SkZNJSGQ.search.56",
+        "performance": "",
+        "salaryDesc": "100-120元/天",
+        "jobLabels": [
+          "5天/周",
+          "3个月",
+          "本科",
+          "数据标注",
+          "文本标注"
+        ],
+        "highlightJobLabels": [
+          {
+            "content": "5天/周",
+            "highlight": false
+          },
+          {
+            "content": "3个月",
+            "highlight": false
+          },
+          {
+            "content": "本科",
+            "highlight": false
+          },
+          {
+            "content": "数据标注",
+            "highlight": false
+          },
+          {
+            "content": "文本标注",
+            "highlight": false
+          }
+        ],
+        "jobType": 4,
+        "encryptJobId": "76d9a990a7e2985003B72du6EVBS",
+        "afterNameIcon": null,
+        "afterNameIcons": [],
+        "beforeNameIcons": [],
+        "picVideoList": [],
+        "positionName": null,
+        "commuteInfo": null,
+        "optimalTag": null,
+        "jobSource": 0,
+        "iconUrl": "",
+        "jobDesc": null,
+        "brandName": "信工博特",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210824/7bf6f160950405e92a58adb340ba4ddab300eedb3721bba819991f92b5ef9817c137d7f98bc07fab.jpg",
+        "brandStage": "A轮",
+        "brandScale": "100-499人",
+        "comName": null,
+        "bossName": "张女士",
+        "bossTitle": "人事经理",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220430/607f1f3d68754fd0a507101ab09598b9d32512c5bab25b06bbea9787edb4ba5c967e0320d9c6186b_s.png",
+        "bossCert": 0,
+        "activeMsg": "",
+        "bossOnline": null,
+        "proxyJob": 0,
+        "skills": [
+          "数据标注",
+          "文本标注",
+          "不接受居家办公",
+          "标注结果整理",
+          "图片标注",
+          "分类标注"
+        ],
+        "welfares": [],
+        "securityId": "W02u6TI3UN_lC-B1UhrW2VD_CfmI46z5N2uCEZ_ZZ7qTTw9mXSqC9WxTHQEarJx8uweQSGE~",
+        "sessionId": "",
+        "replayRate": "",
+        "jobNameLineNumber": 2,
+        "bottomRcdReason": null,
+        "gps": {
+          "longitude": 113.025037,
+          "latitude": 28.221686
+        },
+        "highSalary": 120,
+        "salaryType": 2,
+        "businessCode": 1549,
+        "dividerInfo": null
+      },
+      {
+        "jobName": "数据处理实习生",
+        "jobValidStatus": 1,
+        "jobExperience": "在校/应届",
+        "jobDegree": "本科",
+        "cityName": "长沙",
+        "districtName": null,
+        "businessName": null,
+        "distance": "",
+        "lid": "8J2SkZNJSGQ.search.57",
+        "performance": "",
+        "salaryDesc": "100-120元/天",
+        "jobLabels": [
+          "5天/周",
+          "6个月",
+          "本科",
+          "接受无数据开发经验"
+        ],
+        "highlightJobLabels": [
+          {
+            "content": "5天/周",
+            "highlight": false
+          },
+          {
+            "content": "6个月",
+            "highlight": false
+          },
+          {
+            "content": "本科",
+            "highlight": false
+          },
+          {
+            "content": "接受无数据开发经验",
+            "highlight": false
+          }
+        ],
+        "jobType": 4,
+        "encryptJobId": "e05dd7b076c215a503B539W8GVBT",
+        "afterNameIcon": null,
+        "afterNameIcons": [],
+        "beforeNameIcons": [],
+        "picVideoList": [],
+        "positionName": null,
+        "commuteInfo": null,
+        "optimalTag": null,
+        "jobSource": 0,
+        "iconUrl": "",
+        "jobDesc": null,
+        "brandName": "惟尔科技",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20231122/7b5b554d84f9729c668e08fa5a877f7fc32694804f07c7ceaf387ca36209bed10f1c164ae72ca151.jpg.webp",
+        "brandStage": "不需要融资",
+        "brandScale": "20-99人",
+        "comName": null,
+        "bossName": "罗先生",
+        "bossTitle": "技术总监",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+        "bossCert": 0,
+        "activeMsg": "",
+        "bossOnline": null,
+        "proxyJob": 0,
+        "skills": [
+          "接受无数据开发经验"
+        ],
+        "welfares": [],
+        "securityId": "FN6YklFDpE8VQ-41TPIKuk9jYtQVzTU-fYt2OIp2QHQ1yEk9RwxM1mCrptuyZodJmNhLYX6t",
+        "sessionId": "",
+        "replayRate": "",
+        "jobNameLineNumber": 2,
+        "bottomRcdReason": null,
+        "gps": {
+          "longitude": 112.911262,
+          "latitude": 28.192583
+        },
+        "highSalary": 120,
+        "salaryType": 2,
+        "businessCode": 0,
+        "dividerInfo": null
+      },
+      {
+        "jobName": "实时大数据开发工程师-实习",
+        "jobValidStatus": 1,
+        "jobExperience": "在校/应届",
+        "jobDegree": "本科",
+        "cityName": "",
+        "districtName": "天心区",
+        "businessName": "暮云镇",
+        "distance": "",
+        "lid": "8J2SkZNJSGQ.search.58",
+        "performance": "",
+        "salaryDesc": "100-200元/天",
+        "jobLabels": [
+          "5天/周",
+          "3个月",
+          "本科",
+          "接受无数据开发经验",
+          "接受实习/在校生投递"
+        ],
+        "highlightJobLabels": [
+          {
+            "content": "5天/周",
+            "highlight": false
+          },
+          {
+            "content": "3个月",
+            "highlight": false
+          },
+          {
+            "content": "本科",
+            "highlight": false
+          },
+          {
+            "content": "接受无数据开发经验",
+            "highlight": false
+          },
+          {
+            "content": "接受实习/在校生投递",
+            "highlight": false
+          }
+        ],
+        "jobType": 4,
+        "encryptJobId": "7d1c9269e5daac8f03d43t-9FFJW",
+        "afterNameIcon": null,
+        "afterNameIcons": [],
+        "beforeNameIcons": [],
+        "picVideoList": [],
+        "positionName": null,
+        "commuteInfo": null,
+        "optimalTag": null,
+        "jobSource": 0,
+        "iconUrl": "",
+        "jobDesc": null,
+        "brandName": "对数科技",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241227/7bf6f160950405e90d8b324bd89098ac4b768e7bfd5ee7c440481680df03f8d60b3d741d058255a9.png.webp",
+        "brandStage": "未融资",
+        "brandScale": "0-20人",
+        "comName": null,
+        "bossName": "杨先生",
+        "bossTitle": "技术总监",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230202/607f1f3d68754fd05763852b43fd2f6d10dcfb10966072fd40481680df03f8d60b3d741d058255a9_s.jpg",
+        "bossCert": 0,
+        "activeMsg": "",
+        "bossOnline": null,
+        "proxyJob": 0,
+        "skills": [
+          "接受无数据开发经验",
+          "接受实习/在校生投递"
+        ],
+        "welfares": [],
+        "securityId": "pJCWBD2eHTlDb-g1K6zCjr2BILJtDWyBM5a-uLWYQP3t4Ab_0Eggxm6XDASw_nxq4FlEzgU~",
+        "sessionId": "",
+        "replayRate": "",
+        "jobNameLineNumber": 2,
+        "bottomRcdReason": null,
+        "gps": {
+          "longitude": 112.984401,
+          "latitude": 28.057245
+        },
+        "highSalary": 200,
+        "salaryType": 2,
+        "businessCode": 34587990,
+        "dividerInfo": null
+      },
+      {
+        "jobName": "数据治理工程师",
+        "jobValidStatus": 1,
+        "jobExperience": "在校/应届",
+        "jobDegree": "本科",
+        "cityName": "",
+        "districtName": "天心区",
+        "businessName": "金盆岭",
+        "distance": "",
+        "lid": "8J2SkZNJSGQ.search.59",
+        "performance": "",
+        "salaryDesc": "120-170元/天",
+        "jobLabels": [
+          "5天/周",
+          "12个月",
+          "本科"
+        ],
+        "highlightJobLabels": [
+          {
+            "content": "5天/周",
+            "highlight": false
+          },
+          {
+            "content": "12个月",
+            "highlight": false
+          },
+          {
+            "content": "本科",
+            "highlight": false
+          }
+        ],
+        "jobType": 4,
+        "encryptJobId": "da7d78f68900166803B72ti5ElJZ",
+        "afterNameIcon": null,
+        "afterNameIcons": [],
+        "beforeNameIcons": [],
+        "picVideoList": [],
+        "positionName": null,
+        "commuteInfo": null,
+        "optimalTag": null,
+        "jobSource": 0,
+        "iconUrl": "",
+        "jobDesc": null,
+        "brandName": "骤雨湾",
+        "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+        "brandStage": "不需要融资",
+        "brandScale": "20-99人",
+        "comName": null,
+        "bossName": "章先生",
+        "bossTitle": "开发",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+        "bossCert": 0,
+        "activeMsg": "",
+        "bossOnline": null,
+        "proxyJob": 0,
+        "skills": [],
+        "welfares": [],
+        "securityId": "pfpFU0YXzJIL7-c1_BsCvWJWcFp22XCXIIbY9cHUwEtXA4Q0zyMQwZ9v8LjqcC28M0zcoaI~",
+        "sessionId": "",
+        "replayRate": "",
+        "jobNameLineNumber": 2,
+        "bottomRcdReason": null,
+        "gps": {
+          "longitude": 112.9952,
+          "latitude": 28.122535
+        },
+        "highSalary": 170,
+        "salaryType": 2,
+        "businessCode": 13,
+        "dividerInfo": null
+      },
+      {
+        "jobName": "数据标注/AI训练师（管理层储备）",
+        "jobValidStatus": 1,
+        "jobExperience": "在校/应届",
+        "jobDegree": "大专",
+        "cityName": "长沙",
+        "districtName": null,
+        "businessName": null,
+        "distance": "",
+        "lid": "8J2SkZNJSGQ.search.60",
+        "performance": "",
+        "salaryDesc": "150-200元/天",
+        "jobLabels": [
+          "6天/周",
+          "6个月",
+          "大专",
+          "下肢残疾",
+          "无障碍招聘"
+        ],
+        "highlightJobLabels": [
+          {
+            "content": "6天/周",
+            "highlight": false
+          },
+          {
+            "content": "6个月",
+            "highlight": false
+          },
+          {
+            "content": "大专",
+            "highlight": false
+          },
+          {
+            "content": "下肢残疾",
+            "highlight": false
+          },
+          {
+            "content": "无障碍招聘",
+            "highlight": false
+          }
+        ],
+        "jobType": 4,
+        "encryptJobId": "a4144d812b77274b03Z_0tq6FlBT",
+        "afterNameIcon": null,
+        "afterNameIcons": [],
+        "beforeNameIcons": [],
+        "picVideoList": [],
+        "positionName": null,
+        "commuteInfo": null,
+        "optimalTag": null,
+        "jobSource": 0,
+        "iconUrl": "",
+        "jobDesc": null,
+        "brandName": "韶关积微数科",
+        "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "brandStage": "",
+        "brandScale": "20-99人",
+        "comName": null,
+        "bossName": "周女士",
+        "bossTitle": "招聘专员",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250401/607f1f3d68754fd04e482772032f2f841e9c4db28cebcba96a09884230cf1e07571e3c0bf6999d8d_s.png.webp",
+        "bossCert": 0,
+        "activeMsg": "",
+        "bossOnline": null,
+        "proxyJob": 0,
+        "skills": [
+          "下肢残疾",
+          "肢体残疾"
+        ],
+        "welfares": [],
+        "securityId": "Qc8eXR0um2fKX-e1vQp52cppmbMdpRHus8mX-GfML4QrfJ-NT78T7EE87oS_BYpV77WT2zFB",
+        "sessionId": "",
+        "replayRate": "",
+        "jobNameLineNumber": 2,
+        "bottomRcdReason": null,
+        "gps": {
+          "longitude": 112.839165,
+          "latitude": 28.291928
+        },
+        "highSalary": 200,
+        "salaryType": 2,
+        "businessCode": 0,
+        "dividerInfo": null
+      }
+    ],
+    "industryAtlasTip": null,
+    "overseasJobTip": null
+  }
+}

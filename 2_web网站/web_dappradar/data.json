@@ -1,0 +1,1750 @@
+{
+    "success": true,
+    "updatedAt": "2025-05-08T14:00:00+00:00",
+    "results": [
+        {
+            "id": 25370,
+            "activeChainIds": [
+                108,
+                16
+            ],
+            "boosted": null,
+            "categoryId": 1,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/25370",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/25370/medievalempires-dapp-games-matic-logo_fff57eff801167d8fe819a565866376f.png",
+            "mobileFriendly": false,
+            "name": "Medieval Empires",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T14:05:13+00:00",
+            "chainIds": [
+                108,
+                16
+            ],
+            "slug": "medieval-empires",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/matic_25370_1a9e0713ec7d8415a54c5d6b7d03fce1.png",
+                "totalBalanceInFiat": 134112.76,
+                "totalBalanceChange": 1.47,
+                "totalVolumeInFiat": 109.08,
+                "totalVolumeChange": 6377.94,
+                "transactionCount": 116,
+                "transactionCountChange": -46.79,
+                "uawCount": 79,
+                "uawCountChange": -14.13
+            }
+        },
+        {
+            "id": 46608,
+            "activeChainIds": [
+                16
+            ],
+            "boosted": null,
+            "categoryId": 6,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/46608",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/46608/pololinks-project-games-46608-logo_7bc6c1988459f7340d604f40de2b6506.png",
+            "mobileFriendly": false,
+            "name": "Pololinks",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-11-15T22:36:03+00:00",
+            "chainIds": [
+                16
+            ],
+            "slug": "pololinks",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/matic_47671_4cb7cfee3fef66369c0a1e16095d5ac6.png",
+                "totalBalanceInFiat": 3.55,
+                "totalBalanceChange": 1.2,
+                "totalVolumeInFiat": 0,
+                "totalVolumeChange": 0,
+                "transactionCount": 105,
+                "transactionCountChange": 22.09,
+                "uawCount": 79,
+                "uawCountChange": 14.49
+            }
+        },
+        {
+            "id": 7673,
+            "activeChainIds": [
+                15,
+                3
+            ],
+            "boosted": null,
+            "categoryId": 8,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/7673",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/7673/iswap-dapp-defi-tron-logo_48b668db50b9243a866f1eead7efc07f.png",
+            "mobileFriendly": true,
+            "name": "ISwap",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T13:34:08+00:00",
+            "chainIds": [
+                15,
+                3
+            ],
+            "slug": "iswap",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/tron_7673_3c713e049bb770d408fb1ac27fe9073d.png",
+                "totalBalanceInFiat": 99288.22,
+                "totalBalanceChange": -0.09,
+                "totalVolumeInFiat": 1730.8,
+                "totalVolumeChange": 38.71,
+                "transactionCount": 26,
+                "transactionCountChange": -33.33,
+                "uawCount": 78,
+                "uawCountChange": 52.94
+            }
+        },
+        {
+            "id": 1713,
+            "activeChainIds": [
+                1
+            ],
+            "boosted": null,
+            "categoryId": 2,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/1713",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/1713/hex-dapp-high-risk-eth-logo_c7f4f173810603c8e02525609a960b04.png",
+            "mobileFriendly": false,
+            "name": "HEX",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T13:19:38+00:00",
+            "chainIds": [
+                1
+            ],
+            "slug": "hex",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/ethereum_1713_8f00f4785c5c44609028d622072b42a6.png",
+                "totalBalanceInFiat": 129908.82,
+                "totalBalanceChange": 10.83,
+                "totalVolumeInFiat": 0,
+                "totalVolumeChange": 0,
+                "transactionCount": 116,
+                "transactionCountChange": -23.18,
+                "uawCount": 77,
+                "uawCountChange": -16.3
+            }
+        },
+        {
+            "id": 14038,
+            "activeChainIds": [
+                15,
+                93
+            ],
+            "boosted": null,
+            "categoryId": 1,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/14038",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/14038/tinyworld-dapp-games-bsc-logo_22e5ec45173aebb67cfe558499b308f4.png",
+            "mobileFriendly": true,
+            "name": "Tiny World",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T13:49:52+00:00",
+            "chainIds": [
+                15,
+                93
+            ],
+            "slug": "tiny-world",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/zksync-era_43864_c6c433876989e6db2d46467138a27612.png",
+                "totalBalanceInFiat": 9647.3,
+                "totalBalanceChange": 2.04,
+                "totalVolumeInFiat": 39.52,
+                "totalVolumeChange": -53.57,
+                "transactionCount": 257,
+                "transactionCountChange": 40.44,
+                "uawCount": 77,
+                "uawCountChange": 79.07
+            }
+        },
+        {
+            "id": 16122,
+            "activeChainIds": [
+                51
+            ],
+            "boosted": null,
+            "categoryId": 2,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/16122",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/16122/thetaswap-dapp-defi-theta-logo_e1114f08f1d8836304dbbd7ead1f6b18.png",
+            "mobileFriendly": false,
+            "name": "ThetaSwap",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T13:54:33+00:00",
+            "chainIds": [
+                51
+            ],
+            "slug": "thetaswap",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/theta_16122_3dfbbac39be612c484095fb20be8a9c5.png",
+                "totalBalanceInFiat": 37.12,
+                "totalBalanceChange": 0.53,
+                "totalVolumeInFiat": 11111.67,
+                "totalVolumeChange": 123.5,
+                "transactionCount": 219,
+                "transactionCountChange": 6.31,
+                "uawCount": 77,
+                "uawCountChange": 40
+            }
+        },
+        {
+            "id": 16352,
+            "activeChainIds": [
+                16
+            ],
+            "boosted": null,
+            "categoryId": 9,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/16352",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/16352/lensprotocol-dapp-social-16352-logo_cfba518a907703cc683bf651300be53c.png",
+            "mobileFriendly": false,
+            "name": "Lens Protocol",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T13:54:50+00:00",
+            "chainIds": [
+                16
+            ],
+            "slug": "lens-protocol",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/matic_16352_0478e5af32baede348ebeef88709b724.png",
+                "totalBalanceInFiat": 0,
+                "totalBalanceChange": 0,
+                "totalVolumeInFiat": 0,
+                "totalVolumeChange": 0,
+                "transactionCount": 285,
+                "transactionCountChange": -21.92,
+                "uawCount": 77,
+                "uawCountChange": 24.19
+            }
+        },
+        {
+            "id": 46181,
+            "activeChainIds": [
+                93
+            ],
+            "boosted": null,
+            "categoryId": 8,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/46181",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/46181/kyberswap-dapp-exchanges-46181-logo_ed90fdbd42ca2baab7e0d885cb52286d.png",
+            "mobileFriendly": true,
+            "name": "KyberSwap Aggregator",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-10-02T22:17:01+00:00",
+            "chainIds": [
+                93
+            ],
+            "slug": "kyberswap-aggregator",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/zksync-era_46982_8eedb6cf66aff212a09a0a35466856cf.png",
+                "totalBalanceInFiat": 395.06,
+                "totalBalanceChange": 5.24,
+                "totalVolumeInFiat": 4757.51,
+                "totalVolumeChange": 354.98,
+                "transactionCount": 576,
+                "transactionCountChange": 135.1,
+                "uawCount": 76,
+                "uawCountChange": 90
+            }
+        },
+        {
+            "id": 47938,
+            "activeChainIds": [
+                1,
+                107
+            ],
+            "boosted": null,
+            "categoryId": 8,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/47938",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/47938/ambient-project-exchanges-47938-logo_9e5bad58d08972766dea809f5ac51f85.png",
+            "mobileFriendly": false,
+            "name": "Ambient",
+            "new": false,
+            "premium": false,
+            "listedAt": "2024-03-02T10:22:02+00:00",
+            "chainIds": [
+                1,
+                107
+            ],
+            "slug": "ambient",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/ethereum_49995_3dcb7a473d82bc3967a4641400cc0206.png",
+                "totalBalanceInFiat": 2611002139.17,
+                "totalBalanceChange": 5.01,
+                "totalVolumeInFiat": 362245.52,
+                "totalVolumeChange": 196.11,
+                "transactionCount": 156,
+                "transactionCountChange": -35.54,
+                "uawCount": 75,
+                "uawCountChange": -6.25
+            }
+        },
+        {
+            "id": 3690,
+            "activeChainIds": [
+                12
+            ],
+            "boosted": null,
+            "categoryId": 1,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/3690",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/3690/drugwars-dapp-games-steem-logo_ea04c10f882cc97742b411e8306b6590.png",
+            "mobileFriendly": false,
+            "name": "DrugWars",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T13:24:51+00:00",
+            "chainIds": [
+                12
+            ],
+            "slug": "drugwars",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/steem_3690_5f288e7467de9c0817de2865bd3b8d84.png",
+                "totalBalanceInFiat": 112.7,
+                "totalBalanceChange": 2.9,
+                "totalVolumeInFiat": 0,
+                "totalVolumeChange": 0,
+                "transactionCount": 146,
+                "transactionCountChange": -6.41,
+                "uawCount": 74,
+                "uawCountChange": 7.25
+            }
+        },
+        {
+            "id": 6980,
+            "activeChainIds": [
+                1,
+                16
+            ],
+            "boosted": null,
+            "categoryId": 1,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/6980",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/6980/voxies-dapp-games-ethereum-logo_957732b68ca621c3e51b6d23790a20ef.png",
+            "mobileFriendly": true,
+            "name": "Voxies",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T13:32:32+00:00",
+            "chainIds": [
+                1,
+                16
+            ],
+            "slug": "voxies",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/ethereum_6980_41689f1986e74bb37be1cea9c2515b49.png",
+                "totalBalanceInFiat": 50.35,
+                "totalBalanceChange": 4.61,
+                "totalVolumeInFiat": 0,
+                "totalVolumeChange": 0,
+                "transactionCount": 576,
+                "transactionCountChange": -52.36,
+                "uawCount": 74,
+                "uawCountChange": -37.29
+            }
+        },
+        {
+            "id": 7357,
+            "activeChainIds": [
+                21
+            ],
+            "boosted": null,
+            "categoryId": 7,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/7357",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/7357/hicetnunc-dapp-marketplaces-tezos-logo_d35db3780c0d0529bc606830ee5d1a6d.png",
+            "mobileFriendly": false,
+            "name": "Hic et Nunc",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T13:32:57+00:00",
+            "chainIds": [
+                21
+            ],
+            "slug": "hic-et-nunc",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/tezos_7357_2fcb300898db333bb56a0cf0732e77e8.png",
+                "totalBalanceInFiat": 13.2,
+                "totalBalanceChange": 4.76,
+                "totalVolumeInFiat": 78.88,
+                "totalVolumeChange": 132.11,
+                "transactionCount": 166,
+                "transactionCountChange": -22.79,
+                "uawCount": 74,
+                "uawCountChange": -13.95
+            }
+        },
+        {
+            "id": 34787,
+            "activeChainIds": [
+                37
+            ],
+            "boosted": null,
+            "categoryId": 1,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/34787",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/34787/puushfun-project-collectibles-34787-logo_c44d5093f97c2b30fcd9a95e66db86dc.png",
+            "mobileFriendly": true,
+            "name": "Puush.fun",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-05-24T15:15:02+00:00",
+            "chainIds": [
+                37
+            ],
+            "slug": "puush-fun",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/cronos_34787_03450139423521229c00fb0006927af0.png",
+                "totalBalanceInFiat": 28027.13,
+                "totalBalanceChange": 3.05,
+                "totalVolumeInFiat": 4495.04,
+                "totalVolumeChange": -46.39,
+                "transactionCount": 163,
+                "transactionCountChange": -36.08,
+                "uawCount": 74,
+                "uawCountChange": -34.51
+            }
+        },
+        {
+            "id": 49925,
+            "activeChainIds": [
+                28
+            ],
+            "boosted": 10000,
+            "categoryId": 1,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/49925",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/49925/forgottenruniverse-project-games-49925-logo_dd5309777a74e13585b5227fef6c83b3.png",
+            "mobileFriendly": true,
+            "name": "Forgotten Runiverse",
+            "new": false,
+            "premium": false,
+            "listedAt": "2024-09-04T09:10:03+00:00",
+            "chainIds": [
+                28
+            ],
+            "slug": "forgotten-runiverse",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/ronin_54675_eff5d8d72d716d637c0f39296a861a96.png",
+                "totalBalanceInFiat": 0.58,
+                "totalBalanceChange": 7.26,
+                "totalVolumeInFiat": 0,
+                "totalVolumeChange": 0,
+                "transactionCount": 180,
+                "transactionCountChange": -11.33,
+                "uawCount": 74,
+                "uawCountChange": -17.78
+            }
+        },
+        {
+            "id": 5217,
+            "activeChainIds": [
+                1,
+                15,
+                19,
+                37,
+                40,
+                46,
+                47,
+                55
+            ],
+            "boosted": null,
+            "categoryId": 2,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/5217",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/5217/acryptos-dapp-defi-bsc-logo_0f15880185d134165218eb927ccc3986.png",
+            "mobileFriendly": true,
+            "name": "ACryptoS",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T13:28:09+00:00",
+            "chainIds": [
+                1,
+                15,
+                19,
+                37,
+                40,
+                46,
+                47,
+                55
+            ],
+            "slug": "acryptos",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/bsc_5217_d656320a9b304529f1b9556ed5523051.png",
+                "totalBalanceInFiat": 495274.53,
+                "totalBalanceChange": 2.34,
+                "totalVolumeInFiat": 5870776.86,
+                "totalVolumeChange": 184.51,
+                "transactionCount": 287,
+                "transactionCountChange": 78.26,
+                "uawCount": 73,
+                "uawCountChange": -7.59
+            }
+        },
+        {
+            "id": 8709,
+            "activeChainIds": [
+                15
+            ],
+            "boosted": null,
+            "categoryId": 8,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/8709",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/8709/alita-dapp-defi-other-logo_1bf7fdf3016068ff85b8cda390105c0c.png",
+            "mobileFriendly": true,
+            "name": "ALITA",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T13:36:20+00:00",
+            "chainIds": [
+                15
+            ],
+            "slug": "alita",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/bsc_8709_8bc06007de2c6ada342560b7bc2f3617.png",
+                "totalBalanceInFiat": 1510452.4,
+                "totalBalanceChange": -0.9,
+                "totalVolumeInFiat": 2216.46,
+                "totalVolumeChange": 65.94,
+                "transactionCount": 2,
+                "transactionCountChange": 100,
+                "uawCount": 73,
+                "uawCountChange": 12.31
+            }
+        },
+        {
+            "id": 48801,
+            "activeChainIds": [
+                46,
+                94
+            ],
+            "boosted": null,
+            "categoryId": 7,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/48801",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/48801/soundxyz-project-marketplaces-48801-logo_83cab70701101d596bd2f91d30019742.png",
+            "mobileFriendly": false,
+            "name": "Sound.xyz",
+            "new": false,
+            "premium": false,
+            "listedAt": "2024-05-16T20:25:03+00:00",
+            "chainIds": [
+                46,
+                94
+            ],
+            "slug": "sound-xyz-2",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/base_51762_2827d0afe3bd1bb8c14320c09d76aecf.png",
+                "totalBalanceInFiat": 15982.35,
+                "totalBalanceChange": 2.34,
+                "totalVolumeInFiat": 209.81,
+                "totalVolumeChange": 93.27,
+                "transactionCount": 120,
+                "transactionCountChange": 84.62,
+                "uawCount": 70,
+                "uawCountChange": 52.17
+            }
+        },
+        {
+            "id": 50662,
+            "activeChainIds": [
+                1,
+                15,
+                94
+            ],
+            "boosted": null,
+            "categoryId": 2,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/50662",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/50662/blazingbot-project-defi-50662-logo_da54b562cafbe755acfdd71ab2525374.png",
+            "mobileFriendly": true,
+            "name": "BlazingApp",
+            "new": false,
+            "premium": false,
+            "listedAt": "2024-11-19T20:50:06+00:00",
+            "chainIds": [
+                1,
+                15,
+                94
+            ],
+            "slug": "blazingapp",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/base_56564_2ba95f2aa7eec6e5cdd69f060d897d3b.png",
+                "totalBalanceInFiat": 4423.93,
+                "totalBalanceChange": 42.73,
+                "totalVolumeInFiat": 63292.37,
+                "totalVolumeChange": 26.77,
+                "transactionCount": 99,
+                "transactionCountChange": 19.28,
+                "uawCount": 70,
+                "uawCountChange": 4.48
+            }
+        },
+        {
+            "id": 51986,
+            "activeChainIds": [
+                1,
+                16,
+                46,
+                55,
+                94
+            ],
+            "boosted": null,
+            "categoryId": 2,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/51986",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/51986/ecoportal-project-defi-51986-logo_990524d4d8253c0245ab197d323bb395.png",
+            "mobileFriendly": true,
+            "name": "Eco Portal",
+            "new": false,
+            "premium": false,
+            "listedAt": "2025-04-03T07:42:03+00:00",
+            "chainIds": [
+                1,
+                16,
+                46,
+                55,
+                94
+            ],
+            "slug": "eco-portal",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/base_59420_194019c8ddfdb339c53d9d1a6977d499.png",
+                "totalBalanceInFiat": 1190.43,
+                "totalBalanceChange": 3.74,
+                "totalVolumeInFiat": 668048.73,
+                "totalVolumeChange": -73.2,
+                "transactionCount": 289,
+                "transactionCountChange": -64.5,
+                "uawCount": 70,
+                "uawCountChange": 27.27
+            }
+        },
+        {
+            "id": 29736,
+            "activeChainIds": [
+                1,
+                27
+            ],
+            "boosted": null,
+            "categoryId": 4,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/29736",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/29736/moonroll-dapp-gambling-solana-logo_df76553527d214102c97645d42d12b8b.png",
+            "mobileFriendly": true,
+            "name": "Moon Roll",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T14:41:03+00:00",
+            "chainIds": [
+                1,
+                27
+            ],
+            "slug": "moon-roll",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/solana_29736_1b8107b1b0f327c2131c4c87651c5fac.png",
+                "totalBalanceInFiat": 3721.39,
+                "totalBalanceChange": 6.16,
+                "totalVolumeInFiat": 16202.55,
+                "totalVolumeChange": 65.16,
+                "transactionCount": 165,
+                "transactionCountChange": 47.32,
+                "uawCount": 69,
+                "uawCountChange": 21.05
+            }
+        },
+        {
+            "id": 48094,
+            "activeChainIds": [
+                1,
+                105,
+                15,
+                55,
+                86
+            ],
+            "boosted": null,
+            "categoryId": 2,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/48094",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/48094/accumulatedfinance-project-defi-48094-logo_d67963710cbdc2a5fe4acd6e37ebac3f.png",
+            "mobileFriendly": true,
+            "name": "Accumulated Finance",
+            "new": false,
+            "premium": false,
+            "listedAt": "2024-03-15T07:48:02+00:00",
+            "chainIds": [
+                1,
+                105,
+                15,
+                55,
+                86
+            ],
+            "slug": "accumulated-finance",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/zetachain_50279_5c8dfbf8d43bbe72667cb67336c80371.png",
+                "totalBalanceInFiat": 130644.36,
+                "totalBalanceChange": 5.14,
+                "totalVolumeInFiat": 565.72,
+                "totalVolumeChange": -9.55,
+                "transactionCount": 103,
+                "transactionCountChange": -29.45,
+                "uawCount": 69,
+                "uawCountChange": -26.6
+            }
+        },
+        {
+            "id": 6461,
+            "activeChainIds": [
+                15,
+                16,
+                19,
+                36,
+                37,
+                40
+            ],
+            "boosted": null,
+            "categoryId": 2,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/6461",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/6461/elkfinance-dapp-defi-matic-logo_ebba46d49473e9156d08d7b61ff2a031.png",
+            "mobileFriendly": true,
+            "name": "Elk Finance",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T13:31:10+00:00",
+            "chainIds": [
+                15,
+                16,
+                19,
+                36,
+                37,
+                40
+            ],
+            "slug": "elk-finance",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/matic_6461_371d24c255d8e3faeff33344c08b6ac1.png",
+                "totalBalanceInFiat": 23058.24,
+                "totalBalanceChange": 5.74,
+                "totalVolumeInFiat": 350.15,
+                "totalVolumeChange": 16.17,
+                "transactionCount": 10,
+                "transactionCountChange": -54.55,
+                "uawCount": 68,
+                "uawCountChange": -9.33
+            }
+        },
+        {
+            "id": 31013,
+            "activeChainIds": [
+                27
+            ],
+            "boosted": null,
+            "categoryId": 5,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/31013",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/31013/squads-dapp-other-solana-logo_2379d024132390571e4c21790306899c.png",
+            "mobileFriendly": true,
+            "name": "Squads",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T14:41:21+00:00",
+            "chainIds": [
+                27
+            ],
+            "slug": "squads",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/solana_31013_9c0ff6327eba6a0969561ab5fab1aad3.png",
+                "totalBalanceInFiat": 0.18,
+                "totalBalanceChange": 5.88,
+                "totalVolumeInFiat": 1393961.64,
+                "totalVolumeChange": -38.82,
+                "transactionCount": 263,
+                "transactionCountChange": -29.3,
+                "uawCount": 68,
+                "uawCountChange": -35.85
+            }
+        },
+        {
+            "id": 31752,
+            "activeChainIds": [
+                27
+            ],
+            "boosted": null,
+            "categoryId": 4,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/31752",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/31752/divvybet-dapp-gambling-solana-logo_cdf204a34460419add3a2b1c8b607301.png",
+            "mobileFriendly": true,
+            "name": "Divvy",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T14:41:29+00:00",
+            "chainIds": [
+                27
+            ],
+            "slug": "divvy-4",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/solana_31752_9b7fc700b39b790f7015c04606b658d9.png",
+                "totalBalanceInFiat": 186952.84,
+                "totalBalanceChange": 4.27,
+                "totalVolumeInFiat": 14351.4,
+                "totalVolumeChange": -29.03,
+                "transactionCount": 439,
+                "transactionCountChange": 14.32,
+                "uawCount": 68,
+                "uawCountChange": 19.3
+            }
+        },
+        {
+            "id": 48883,
+            "activeChainIds": [
+                1,
+                107,
+                46,
+                55,
+                93,
+                94,
+                99
+            ],
+            "boosted": null,
+            "categoryId": 2,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/48883",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/48883/kelpdao-project-defi-48883-logo_a918b9f25bc46a9c4989ac6a9edf7e22.png",
+            "mobileFriendly": false,
+            "name": "Kelp DAO",
+            "new": false,
+            "premium": false,
+            "listedAt": "2024-05-26T19:16:05+00:00",
+            "chainIds": [
+                1,
+                107,
+                46,
+                55,
+                93,
+                94,
+                99
+            ],
+            "slug": "kelp-dao",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/base_51948_e96e47e6b5abf6cf6e61655f9ebc8a49.png",
+                "totalBalanceInFiat": 5082022.61,
+                "totalBalanceChange": -9.67,
+                "totalVolumeInFiat": 13282.7,
+                "totalVolumeChange": -68.97,
+                "transactionCount": 84,
+                "transactionCountChange": 16.67,
+                "uawCount": 68,
+                "uawCountChange": 23.64
+            }
+        },
+        {
+            "id": 50089,
+            "activeChainIds": [
+                135
+            ],
+            "boosted": null,
+            "categoryId": 1,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/50089",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/50089/influence-project-games-50089-logo_444e25b12abf697bb3b3481e08c8478d.png",
+            "mobileFriendly": false,
+            "name": "Influence",
+            "new": false,
+            "premium": false,
+            "listedAt": "2024-09-19T14:44:03+00:00",
+            "chainIds": [
+                135
+            ],
+            "slug": "influence",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/starknet_55202_37a3944c26ea47a23e5f4a1d6efc5262.png",
+                "totalBalanceInFiat": 0,
+                "totalBalanceChange": 0,
+                "totalVolumeInFiat": 0,
+                "totalVolumeChange": 0,
+                "transactionCount": 2843,
+                "transactionCountChange": -10.96,
+                "uawCount": 68,
+                "uawCountChange": -1.45
+            }
+        },
+        {
+            "id": 13581,
+            "activeChainIds": [
+                11
+            ],
+            "boosted": null,
+            "categoryId": 1,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/13581",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/13581/castlesthenftgame-dapp-games-wax-logo_7df4e1efb44f93b0d3faa6dcdbad619b.png",
+            "mobileFriendly": true,
+            "name": "Castles the NFT Game",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T13:48:37+00:00",
+            "chainIds": [
+                11
+            ],
+            "slug": "castles-the-nft-game",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/wax_13581_962fbb4d84c14345778d6d449d0d1103.png",
+                "totalBalanceInFiat": 141.28,
+                "totalBalanceChange": 4.02,
+                "totalVolumeInFiat": 0,
+                "totalVolumeChange": 0,
+                "transactionCount": 1465,
+                "transactionCountChange": -3.93,
+                "uawCount": 67,
+                "uawCountChange": 11.67
+            }
+        },
+        {
+            "id": 13757,
+            "activeChainIds": [
+                27
+            ],
+            "boosted": null,
+            "categoryId": 5,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/13757",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/13757/solanasolanamultisendersoltokendapp-dapp-other-solana-logo_aff2eb1d1b031c42e9d062b5a1f07964.png",
+            "mobileFriendly": true,
+            "name": "Solana Multisender",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T13:48:54+00:00",
+            "chainIds": [
+                27
+            ],
+            "slug": "solana-multisender",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/solana_13757_580f522c6ac0615901e864f10fb2f683.png",
+                "totalBalanceInFiat": 73336.23,
+                "totalBalanceChange": 8.32,
+                "totalVolumeInFiat": 1935.53,
+                "totalVolumeChange": 371.94,
+                "transactionCount": 513,
+                "transactionCountChange": 418.18,
+                "uawCount": 67,
+                "uawCountChange": 272.22
+            }
+        },
+        {
+            "id": 17185,
+            "activeChainIds": [
+                15
+            ],
+            "boosted": null,
+            "categoryId": 2,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/17185",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/17185/orbitalswap-dapp-defi-bsc-logo_4b9a82c766f36b975c420ed621e96181.png",
+            "mobileFriendly": true,
+            "name": "OrbitalSwap",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T13:56:18+00:00",
+            "chainIds": [
+                15
+            ],
+            "slug": "orbitalswap",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/bsc_17185_7f6b63c75dc19163970114d3f42cb787.png",
+                "totalBalanceInFiat": 13374.2,
+                "totalBalanceChange": -0.89,
+                "totalVolumeInFiat": 153.98,
+                "totalVolumeChange": 107.1,
+                "transactionCount": 0,
+                "transactionCountChange": 0,
+                "uawCount": 67,
+                "uawCountChange": -2.9
+            }
+        },
+        {
+            "id": 51552,
+            "activeChainIds": [
+                68
+            ],
+            "boosted": null,
+            "categoryId": 8,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/51552",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/51552/aigentrun-project-other-51552-logo_89a93ff6fde3eb5fd1fe4dedc2b4ee3c.png",
+            "mobileFriendly": true,
+            "name": "aigent.run",
+            "new": false,
+            "premium": false,
+            "listedAt": "2025-02-13T05:18:05+00:00",
+            "chainIds": [
+                68
+            ],
+            "slug": "aigent-run",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/xrpl_58489_ded1f521090ee07470a5d752f7ab18ec.png",
+                "totalBalanceInFiat": null,
+                "totalBalanceChange": null,
+                "totalVolumeInFiat": 10716.97,
+                "totalVolumeChange": 524.93,
+                "transactionCount": 487,
+                "transactionCountChange": 2.53,
+                "uawCount": 67,
+                "uawCountChange": 13.56
+            }
+        },
+        {
+            "id": 51802,
+            "activeChainIds": [
+                37
+            ],
+            "boosted": null,
+            "categoryId": 8,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/51802",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/51802/obsidian-project-exchanges-51802-logo_bce7a6512e1bd4897e164828223ead89.png",
+            "mobileFriendly": true,
+            "name": "Obsidian",
+            "new": false,
+            "premium": false,
+            "listedAt": "2025-03-14T07:40:03+00:00",
+            "chainIds": [
+                37
+            ],
+            "slug": "obsidian",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/cronos_59061_dfcb9927a3bee77e96971a41ff21276b.png",
+                "totalBalanceInFiat": 0,
+                "totalBalanceChange": 0,
+                "totalVolumeInFiat": 7433.28,
+                "totalVolumeChange": 414.17,
+                "transactionCount": 96,
+                "transactionCountChange": 24.68,
+                "uawCount": 67,
+                "uawCountChange": -10.67
+            }
+        },
+        {
+            "id": 51948,
+            "activeChainIds": [
+                133
+            ],
+            "boosted": null,
+            "categoryId": 8,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/51948",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/51948/hanjiprotocol-project-exchanges-51948-logo_24b516cf4e452a7212345dc45cc38c77.png",
+            "mobileFriendly": true,
+            "name": "Hanji Protocol",
+            "new": false,
+            "premium": false,
+            "listedAt": "2025-03-31T09:06:04+00:00",
+            "chainIds": [
+                133
+            ],
+            "slug": "hanji-protocol",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/etherlink_59363_a4f2456276dc22a671b06dd64325358d.png",
+                "totalBalanceInFiat": 3253553.62,
+                "totalBalanceChange": 5.29,
+                "totalVolumeInFiat": 35388034.18,
+                "totalVolumeChange": 43.33,
+                "transactionCount": 1383,
+                "transactionCountChange": -20.79,
+                "uawCount": 67,
+                "uawCountChange": -2.9
+            }
+        },
+        {
+            "id": 25107,
+            "activeChainIds": [
+                37
+            ],
+            "boosted": null,
+            "categoryId": 5,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/25107",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/25107/cronosid-dapp-other-cronos-logo_bf630f3dcbf216dcdd8948efa98a1624.png",
+            "mobileFriendly": true,
+            "name": "Cronos ID",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T14:05:10+00:00",
+            "chainIds": [
+                37
+            ],
+            "slug": "cronos-id",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/cronos_25107_882c56b8c11e8bbd0e271892acb9cf93.png",
+                "totalBalanceInFiat": 3166083.22,
+                "totalBalanceChange": 3.44,
+                "totalVolumeInFiat": 2867.44,
+                "totalVolumeChange": 55.2,
+                "transactionCount": 89,
+                "transactionCountChange": 9.88,
+                "uawCount": 66,
+                "uawCountChange": 8.2
+            }
+        },
+        {
+            "id": 26373,
+            "activeChainIds": [
+                1,
+                16,
+                46,
+                55,
+                94
+            ],
+            "boosted": null,
+            "categoryId": 2,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/26373",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/26373/contango-dapp-defi-ethereum-logo_04a0dbf26dd4e4dfd4062bcb716edbb7.png",
+            "mobileFriendly": true,
+            "name": "Contango",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T14:05:24+00:00",
+            "chainIds": [
+                1,
+                16,
+                46,
+                55,
+                94
+            ],
+            "slug": "contango",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/arbitrum_26374_aa1a689ac5233fca5c0dcb1dbcec2514.png",
+                "totalBalanceInFiat": 8.78,
+                "totalBalanceChange": 3.41,
+                "totalVolumeInFiat": 4871.55,
+                "totalVolumeChange": -93.36,
+                "transactionCount": 78,
+                "transactionCountChange": 25.81,
+                "uawCount": 66,
+                "uawCountChange": 22.22
+            }
+        },
+        {
+            "id": 18764,
+            "activeChainIds": [
+                11
+            ],
+            "boosted": null,
+            "categoryId": 1,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/18764",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/18764/moonmininghe3-project-games-18764-logo_68d3711d80710fbbfeef4d6a3f98c878.png",
+            "mobileFriendly": true,
+            "name": "Moon Mining He3",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T14:00:32+00:00",
+            "chainIds": [
+                11
+            ],
+            "slug": "moon-mining-he3",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/wax_18764_9b7b2e02a83933fcbba9cd52fb3c10a2.png",
+                "totalBalanceInFiat": 7.2,
+                "totalBalanceChange": 3.9,
+                "totalVolumeInFiat": 0,
+                "totalVolumeChange": 0,
+                "transactionCount": 3616,
+                "transactionCountChange": -9.37,
+                "uawCount": 65,
+                "uawCountChange": -20.73
+            }
+        },
+        {
+            "id": 47480,
+            "activeChainIds": [
+                27
+            ],
+            "boosted": null,
+            "categoryId": 1,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/47480",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/47480/maibot-project-games-47480-logo_ea639dc72185e41fb1d658f5d026e610.png",
+            "mobileFriendly": true,
+            "name": "Maibot",
+            "new": false,
+            "premium": false,
+            "listedAt": "2024-01-23T17:37:01+00:00",
+            "chainIds": [
+                27
+            ],
+            "slug": "maibot",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/solana_49140_806532817a18c0ad27408e81cea94af3.png",
+                "totalBalanceInFiat": 507.87,
+                "totalBalanceChange": 5.26,
+                "totalVolumeInFiat": 0,
+                "totalVolumeChange": 0,
+                "transactionCount": 13069,
+                "transactionCountChange": -1.73,
+                "uawCount": 65,
+                "uawCountChange": -12.16
+            }
+        },
+        {
+            "id": 51395,
+            "activeChainIds": [
+                118
+            ],
+            "boosted": null,
+            "categoryId": 1,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/51395",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/51395/beeharvest-project-games-51395-logo_d9e631769ec514a05b84348a3386554b.png",
+            "mobileFriendly": true,
+            "name": "BeeHarvest",
+            "new": false,
+            "premium": false,
+            "listedAt": "2025-01-30T04:22:04+00:00",
+            "chainIds": [
+                118
+            ],
+            "slug": "beeharvest",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/ton_58092_7dc0441f2882064be878bebec2e349c3.png",
+                "totalBalanceInFiat": 29473.96,
+                "totalBalanceChange": -3.43,
+                "totalVolumeInFiat": 483.04,
+                "totalVolumeChange": 158.5,
+                "transactionCount": 172,
+                "transactionCountChange": 81.05,
+                "uawCount": 65,
+                "uawCountChange": 116.67
+            }
+        },
+        {
+            "id": 374,
+            "activeChainIds": [
+                1
+            ],
+            "boosted": null,
+            "categoryId": 7,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/374",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/374/superrare-dapp-marketplaces-ethereum-logo_64cfa5266ca9dca7af409c1be8efe046.png",
+            "mobileFriendly": false,
+            "name": "SuperRare",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T12:42:46+00:00",
+            "chainIds": [
+                1
+            ],
+            "slug": "superrare",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/ethereum_374_5beaff9cd546c72e9d8ce579810304c8.png",
+                "totalBalanceInFiat": 1090656.04,
+                "totalBalanceChange": 1.2,
+                "totalVolumeInFiat": 54000.62,
+                "totalVolumeChange": -73.19,
+                "transactionCount": 138,
+                "transactionCountChange": -13.21,
+                "uawCount": 64,
+                "uawCountChange": 12.28
+            }
+        },
+        {
+            "id": 14972,
+            "activeChainIds": [
+                18
+            ],
+            "boosted": null,
+            "categoryId": 9,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/14972",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/14972/learnnearclub-dapp-social-near-logo_38ae756b1577c7312724cb27f1c9dbfa.png",
+            "mobileFriendly": true,
+            "name": "Learn NEAR Club",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T13:51:50+00:00",
+            "chainIds": [
+                18
+            ],
+            "slug": "learn-near-club",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/near_14972_374a1778e4e0322d399d174ec6042048.png",
+                "totalBalanceInFiat": 2332.17,
+                "totalBalanceChange": 8.23,
+                "totalVolumeInFiat": 0,
+                "totalVolumeChange": 0,
+                "transactionCount": 114,
+                "transactionCountChange": -24,
+                "uawCount": 64,
+                "uawCountChange": -20.99
+            }
+        },
+        {
+            "id": 37676,
+            "activeChainIds": [
+                1,
+                16,
+                27
+            ],
+            "boosted": null,
+            "categoryId": 7,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/37676",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/37676/mooar-project-marketplaces-37676-logo_2d8db5218341e389448778141a32b92f.png",
+            "mobileFriendly": true,
+            "name": "MOOAR",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-05-23T12:22:02+00:00",
+            "chainIds": [
+                1,
+                16,
+                27
+            ],
+            "slug": "mooar",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/a2e4822a98337283e39f7b60acf85ec9.png",
+                "totalBalanceInFiat": 6775.83,
+                "totalBalanceChange": 1.79,
+                "totalVolumeInFiat": 0.68,
+                "totalVolumeChange": -80.64,
+                "transactionCount": 90,
+                "transactionCountChange": -60,
+                "uawCount": 64,
+                "uawCountChange": -49.61
+            }
+        },
+        {
+            "id": 49203,
+            "activeChainIds": [
+                99
+            ],
+            "boosted": null,
+            "categoryId": 5,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/49203",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/49203/verax-project-non_dapps-49203-logo_6d53951897df53960474c15b2b6fc5d7.png",
+            "mobileFriendly": false,
+            "name": "Verax",
+            "new": false,
+            "premium": false,
+            "listedAt": "2024-06-20T04:20:03+00:00",
+            "chainIds": [
+                99
+            ],
+            "slug": "verax",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/linea_52629_bff498b63103d885ca2c48cd7ee2e2ef.png",
+                "totalBalanceInFiat": 6641.14,
+                "totalBalanceChange": 8,
+                "totalVolumeInFiat": 79.96,
+                "totalVolumeChange": 38.34,
+                "transactionCount": 77,
+                "transactionCountChange": 13.24,
+                "uawCount": 64,
+                "uawCountChange": 10.34
+            }
+        },
+        {
+            "id": 49600,
+            "activeChainIds": [
+                124
+            ],
+            "boosted": null,
+            "categoryId": 1,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/49600",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/49600/knightsofcathena-project-games-49600-logo_3a2c43551877b940fa236a81eac3abf3.png",
+            "mobileFriendly": true,
+            "name": "Knights of Cathena",
+            "new": false,
+            "premium": false,
+            "listedAt": "2024-07-31T07:24:05+00:00",
+            "chainIds": [
+                124
+            ],
+            "slug": "knights-of-cathena",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/multiversx_53733_1b1daa148e1687f20aada55b5a591c7b.png",
+                "totalBalanceInFiat": 8337.92,
+                "totalBalanceChange": 2.5,
+                "totalVolumeInFiat": 42.54,
+                "totalVolumeChange": -67.18,
+                "transactionCount": 1528,
+                "transactionCountChange": -33.57,
+                "uawCount": 64,
+                "uawCountChange": -9.86
+            }
+        },
+        {
+            "id": 15614,
+            "activeChainIds": [
+                18
+            ],
+            "boosted": null,
+            "categoryId": 1,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/15614",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/15614/pumpopoly-dapp-games-15614-logo_de46de52d02d69b1ea03be88040ddb62.png",
+            "mobileFriendly": true,
+            "name": "Pumpopoly",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T13:53:18+00:00",
+            "chainIds": [
+                18
+            ],
+            "slug": "pumpopoly",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/near_15614_83fa22a30e7e33266b8560dce1feda1d.png",
+                "totalBalanceInFiat": 1629.39,
+                "totalBalanceChange": 8.23,
+                "totalVolumeInFiat": 0,
+                "totalVolumeChange": 0,
+                "transactionCount": 184,
+                "transactionCountChange": -12.8,
+                "uawCount": 63,
+                "uawCountChange": -10
+            }
+        },
+        {
+            "id": 15720,
+            "activeChainIds": [
+                1,
+                15,
+                16,
+                18,
+                19,
+                40,
+                50,
+                94
+            ],
+            "boosted": null,
+            "categoryId": 4,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/15720",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/15720/owldao-project-gambling-15720-logo_c4c5f81b1682455e6ebdaa34e9050626.png",
+            "mobileFriendly": true,
+            "name": "OwlDAO",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T13:53:14+00:00",
+            "chainIds": [
+                1,
+                15,
+                16,
+                18,
+                19,
+                40,
+                50,
+                94
+            ],
+            "slug": "owldao",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/matic_15720_f51fc7b461776a5c4f7a96bb8e9307ef.png",
+                "totalBalanceInFiat": 126.31,
+                "totalBalanceChange": 1.85,
+                "totalVolumeInFiat": 8173.05,
+                "totalVolumeChange": -54.44,
+                "transactionCount": 117,
+                "transactionCountChange": -19.31,
+                "uawCount": 63,
+                "uawCountChange": 28.57
+            }
+        },
+        {
+            "id": 16154,
+            "activeChainIds": [
+                19
+            ],
+            "boosted": null,
+            "categoryId": 2,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/16154",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/16154/benqi-dapp-defi-avalanche-logo_3b156d1644ab7d984d2f5126470a163b.png",
+            "mobileFriendly": false,
+            "name": "Benqi",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T13:54:35+00:00",
+            "chainIds": [
+                19
+            ],
+            "slug": "benqi",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/avalanche_16154_a9537dc6527088b9d49c8c5221d9e836.png",
+                "totalBalanceInFiat": 2468152.89,
+                "totalBalanceChange": 4.24,
+                "totalVolumeInFiat": 2115761.33,
+                "totalVolumeChange": 25.32,
+                "transactionCount": 140,
+                "transactionCountChange": -17.16,
+                "uawCount": 63,
+                "uawCountChange": 0
+            }
+        },
+        {
+            "id": 49599,
+            "activeChainIds": [
+                124
+            ],
+            "boosted": null,
+            "categoryId": 5,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/49599",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/49599/burnify-project-collectibles-49599-logo_9f1e1e0567c70dcf22d1f4f612fd18a0.png",
+            "mobileFriendly": false,
+            "name": "Burnify",
+            "new": false,
+            "premium": false,
+            "listedAt": "2024-07-31T07:25:04+00:00",
+            "chainIds": [
+                124
+            ],
+            "slug": "burnify",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/multiversx_53732_32dd3f5cb93887845f89e175ac6b814d.png",
+                "totalBalanceInFiat": 176589.85,
+                "totalBalanceChange": 14.96,
+                "totalVolumeInFiat": 327.28,
+                "totalVolumeChange": -49.33,
+                "transactionCount": 403,
+                "transactionCountChange": -0.25,
+                "uawCount": 63,
+                "uawCountChange": 10.53
+            }
+        },
+        {
+            "id": 6253,
+            "activeChainIds": [
+                1,
+                15,
+                16,
+                18,
+                19,
+                29,
+                36,
+                37,
+                40,
+                41,
+                42,
+                43,
+                46,
+                47,
+                50,
+                55
+            ],
+            "boosted": null,
+            "categoryId": 7,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/6253",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/6253/tofunft-dapp-marketplaces-bsc-logo_7690ef67e4db87e445c4dd8552595716.png",
+            "mobileFriendly": true,
+            "name": "tofuNFT",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T13:30:56+00:00",
+            "chainIds": [
+                1,
+                15,
+                16,
+                18,
+                19,
+                29,
+                36,
+                37,
+                40,
+                41,
+                42,
+                43,
+                46,
+                47,
+                50,
+                55
+            ],
+            "slug": "tofunft",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/bsc_6253_4b82974f29e9534e05303a4b054163eb.png",
+                "totalBalanceInFiat": 90409.9,
+                "totalBalanceChange": 6.51,
+                "totalVolumeInFiat": 1327.54,
+                "totalVolumeChange": -61.33,
+                "transactionCount": 123,
+                "transactionCountChange": -12.77,
+                "uawCount": 62,
+                "uawCountChange": -12.68
+            }
+        },
+        {
+            "id": 51166,
+            "activeChainIds": [
+                1,
+                136,
+                145
+            ],
+            "boosted": null,
+            "categoryId": 3,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/51166",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/51166/handsnftai-project-games-51166-logo_e04e1b2915e988c3164bd76466b97484.png",
+            "mobileFriendly": true,
+            "name": "HandsNFT AI",
+            "new": false,
+            "premium": false,
+            "listedAt": "2025-01-09T13:04:03+00:00",
+            "chainIds": [
+                1,
+                136,
+                145
+            ],
+            "slug": "handsnft-ai",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/soneium_57649_6af9f6f2e1333dfe3fb23b637ed95c46.png",
+                "totalBalanceInFiat": 181.75,
+                "totalBalanceChange": 7.79,
+                "totalVolumeInFiat": 0.82,
+                "totalVolumeChange": 24.51,
+                "transactionCount": 102,
+                "transactionCountChange": -19.05,
+                "uawCount": 62,
+                "uawCountChange": -22.5
+            }
+        },
+        {
+            "id": 51548,
+            "activeChainIds": [
+                135
+            ],
+            "boosted": null,
+            "categoryId": 8,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/51548",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/51548/10kswap-project-exchanges-51548-logo_1065171b3b253cd07b6e9d2ef26c3544.png",
+            "mobileFriendly": false,
+            "name": "10kswap",
+            "new": false,
+            "premium": false,
+            "listedAt": "2025-02-13T06:07:02+00:00",
+            "chainIds": [
+                135
+            ],
+            "slug": "10kswap",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/starknet_58485_dc436159e10d5350776763ceb530bcaa.png",
+                "totalBalanceInFiat": 1127038.34,
+                "totalBalanceChange": 3.44,
+                "totalVolumeInFiat": 22230.11,
+                "totalVolumeChange": 47.06,
+                "transactionCount": 588,
+                "transactionCountChange": 29.23,
+                "uawCount": 62,
+                "uawCountChange": 21.57
+            }
+        },
+        {
+            "id": 20102,
+            "activeChainIds": [
+                1,
+                15,
+                16,
+                19,
+                37,
+                40
+            ],
+            "boosted": null,
+            "categoryId": 2,
+            "deeplink": "https://dapps-rankings.dappradar.com/deeplink/20102",
+            "featured": false,
+            "logo": "https://dashboard-assets.dappradar.com/document/20102/teamfinance-dapp-defi-ethereum-logo_ba9263732488696ed6102259d5595a1b.png",
+            "mobileFriendly": true,
+            "name": "Team Finance",
+            "new": false,
+            "premium": false,
+            "listedAt": "2023-04-24T14:02:12+00:00",
+            "chainIds": [
+                1,
+                15,
+                16,
+                19,
+                37,
+                40
+            ],
+            "slug": "team-finance",
+            "statistic": {
+                "currencyName": "usd",
+                "graph": "https://dapp-activity.dappradar.com/ethereum_20102_dedd53c545cce180eb39c276fe432bb2.png",
+                "totalBalanceInFiat": 33007783.27,
+                "totalBalanceChange": 0.64,
+                "totalVolumeInFiat": 3847.54,
+                "totalVolumeChange": 111.36,
+                "transactionCount": 99,
+                "transactionCountChange": -10.81,
+                "uawCount": 61,
+                "uawCountChange": -4.69
+            }
+        }
+    ],
+    "page": 12,
+    "pageCount": 338,
+    "resultCount": 16897,
+    "resultsPerPage": 50
+}

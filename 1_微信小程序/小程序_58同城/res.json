@@ -1,0 +1,660 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "showType": {
+            "type": "online",
+            "spmShowType": "online",
+            "privateDomainPageShowType": "old"
+        },
+        "jobList": {
+            "searchNum": 8,
+            "lastPage": false,
+            "pid": "808832695419305984",
+            "pageIndex": 1,
+            "slot": "applet_ykms_jq",
+            "traceLog": {
+                "pageType": "mlist",
+                "pid": "808832695419305984",
+                "time": 3000,
+                "targetUrl": "https://zpcollect.58.com/logs/m/58",
+                "open": "1"
+            },
+            "pageType": 1,
+            "infolist": [
+                {
+                    "dataType": "default",
+                    "title": "【雷锋大道】python高级讲师",
+                    "cardType": "recommend",
+                    "infoId": "61532955515198",
+                    "localName": "cs",
+                    "listName": "tech",
+                    "fullPath": "9224,13909,12162",
+                    "tjfrom": "applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTU1NTE1MTk4Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D",
+                    "action": "/modules/job/pages/detail/index?infoId=61532955515198&tjfrom=applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTU1NTE1MTk4Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E3%80%90%E9%9B%B7%E9%94%8B%E5%A4%A7%E9%81%93%E3%80%91python%E9%AB%98%E7%BA%A7%E8%AE%B2%E5%B8%88%22%7D",
+                    "salary": "面议",
+                    "location": "岳麓区·雷锋大道",
+                    "hrInfo": "用户20971",
+                    "hrPhoto": "https://pic1.58cdn.com.cn/m1/bigimage/n_v246adf37925e3489e813a55e5258ce1f1.jpg",
+                    "companyName": "湖南青咖汇网络科技有限公司",
+                    "targetUrl": "/modules/job/pages/detail/index?infoId=61532955515198&tjfrom=applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTU1NTE1MTk4Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E3%80%90%E9%9B%B7%E9%94%8B%E5%A4%A7%E9%81%93%E3%80%91python%E9%AB%98%E7%BA%A7%E8%AE%B2%E5%B8%88%22%7D",
+                    "tagList": [
+                        {
+                            "tagId": "0",
+                            "tagName": "急招",
+                            "tagType": "jizhao"
+                        }
+                    ],
+                    "recReason": {
+                        "recReasonTip": "大量招人",
+                        "recReasonIcon": "https://pic1.58cdn.com.cn/nowater/cxnomark/n_v249bbf448520f4d6595d5030e7cda6e86.png",
+                        "recReasonTag": "tjly=2"
+                    },
+                    "companyScale": "10-49人",
+                    "companyIndustry": "其他行业",
+                    "deliveryState": false,
+                    "dispCateName": "Python开发",
+                    "btnType": "delivery",
+                    "jumpCompanyStatus": 1,
+                    "traceLogExt": "{\"scate\":\"9224,13909,12162\",\"infotype\":\"K\",\"b\":92047928312607,\"infolocal\":\"414,415,8080\",\"c\":\"A507542E471A074549460CF007328E0A\",\"euid\":\"92047928312607\",\"sloc\":\"414,415,8079\",\"infocate\":\"574,594,2201\",\"new_catepath\":\"674,413795,413796,413801\",\"new_cate_tag\":1}",
+                    "extendMap": {
+                        "make_up": "3"
+                    }
+                },
+                {
+                    "dataType": "default",
+                    "title": "【雷锋大道】python讲师",
+                    "cardType": "recommend",
+                    "infoId": "61533152203162",
+                    "localName": "cs",
+                    "listName": "tech",
+                    "fullPath": "9224,13909,12162",
+                    "tjfrom": "applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__1____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMzMTUyMjAzMTYyIiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D",
+                    "action": "/modules/job/pages/detail/index?infoId=61533152203162&tjfrom=applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__1____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMzMTUyMjAzMTYyIiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E3%80%90%E9%9B%B7%E9%94%8B%E5%A4%A7%E9%81%93%E3%80%91python%E8%AE%B2%E5%B8%88%22%7D",
+                    "salary": "8000-13000元",
+                    "location": "岳麓区·雷锋大道",
+                    "hrInfo": "t5irezf0c",
+                    "companyName": "湖南好课优选教育科技有限公司",
+                    "targetUrl": "/modules/job/pages/detail/index?infoId=61533152203162&tjfrom=applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__1____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMzMTUyMjAzMTYyIiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E3%80%90%E9%9B%B7%E9%94%8B%E5%A4%A7%E9%81%93%E3%80%91python%E8%AE%B2%E5%B8%88%22%7D",
+                    "tagList": [
+                        {
+                            "tagId": "0",
+                            "tagName": "急招",
+                            "tagType": "jizhao"
+                        }
+                    ],
+                    "recReason": {
+                        "recReasonTip": "大量招人",
+                        "recReasonIcon": "https://pic1.58cdn.com.cn/nowater/cxnomark/n_v249bbf448520f4d6595d5030e7cda6e86.png",
+                        "recReasonTag": "tjly=2"
+                    },
+                    "companyIndustry": "其他行业",
+                    "deliveryState": false,
+                    "dispCateName": "Python开发",
+                    "btnType": "delivery",
+                    "jumpCompanyStatus": 1,
+                    "traceLogExt": "{\"scate\":\"9224,13909,12162\",\"infotype\":\"K\",\"b\":55574487488537,\"infolocal\":\"414,415,8080\",\"c\":\"A507542E471A074549460CF007328E0A\",\"euid\":\"55574487488537\",\"sloc\":\"414,415,8079\",\"infocate\":\"574,594,2201\",\"new_catepath\":\"674,413795,413796,413801\",\"new_cate_tag\":1}",
+                    "extendMap": {
+                        "make_up": "3"
+                    }
+                },
+                {
+                    "dataType": "default",
+                    "title": "python高级开发工程师",
+                    "cardType": "recommend",
+                    "infoId": "61532951057312",
+                    "localName": "cs",
+                    "listName": "tech",
+                    "fullPath": "9224,13909,12162",
+                    "tjfrom": "applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__2____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTUxMDU3MzEyIiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D",
+                    "action": "/modules/job/pages/detail/index?infoId=61532951057312&tjfrom=applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__2____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTUxMDU3MzEyIiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22python%E9%AB%98%E7%BA%A7%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D",
+                    "salary": "面议",
+                    "location": "岳麓区·雷锋大道",
+                    "hrInfo": "用户20971",
+                    "hrPhoto": "https://pic1.58cdn.com.cn/m1/bigimage/n_v246adf37925e3489e813a55e5258ce1f1.jpg",
+                    "companyName": "湖南青咖汇网络科技有限公司",
+                    "targetUrl": "/modules/job/pages/detail/index?infoId=61532951057312&tjfrom=applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__2____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTUxMDU3MzEyIiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22python%E9%AB%98%E7%BA%A7%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D",
+                    "tagList": [
+                        {
+                            "tagId": "0",
+                            "tagName": "急招",
+                            "tagType": "jizhao"
+                        }
+                    ],
+                    "recReason": {
+                        "recReasonTip": "大量招人",
+                        "recReasonIcon": "https://pic1.58cdn.com.cn/nowater/cxnomark/n_v249bbf448520f4d6595d5030e7cda6e86.png",
+                        "recReasonTag": "tjly=2"
+                    },
+                    "companyScale": "10-49人",
+                    "companyIndustry": "其他行业",
+                    "deliveryState": false,
+                    "dispCateName": "Python开发",
+                    "btnType": "delivery",
+                    "jumpCompanyStatus": 1,
+                    "traceLogExt": "{\"scate\":\"9224,13909,12162\",\"infotype\":\"K\",\"b\":92047928312607,\"infolocal\":\"414,415,8080\",\"c\":\"A507542E471A074549460CF007328E0A\",\"euid\":\"92047928312607\",\"sloc\":\"414,415,8079\",\"infocate\":\"574,594,2201\",\"new_catepath\":\"674,413795,413796,413801\",\"new_cate_tag\":1}",
+                    "extendMap": {
+                        "make_up": "3"
+                    }
+                },
+                {
+                    "dataType": "default",
+                    "title": "高级python爬虫工程师",
+                    "cardType": "recommend",
+                    "infoId": "61841718314788",
+                    "localName": "cs",
+                    "listName": "zhaopin",
+                    "fullPath": "9224,13961,12265",
+                    "tjfrom": "applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__3____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxODQxNzE4MzE0Nzg4Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D",
+                    "action": "/modules/job/pages/detail/index?infoId=61841718314788&tjfrom=applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__3____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxODQxNzE4MzE0Nzg4Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E9%AB%98%E7%BA%A7python%E7%88%AC%E8%99%AB%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D",
+                    "salary": "面议",
+                    "location": "芙蓉区·古曲路",
+                    "hrInfo": "彭先生",
+                    "companyName": "长沙市芙蓉区波西米亚摄影馆",
+                    "labelUrl": "https://pic1.58cdn.com.cn/nowater/cxnomark/n_v27ccb97b961c247399e8101d8d9aedc04.png",
+                    "targetUrl": "/modules/job/pages/detail/index?infoId=61841718314788&tjfrom=applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__3____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxODQxNzE4MzE0Nzg4Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E9%AB%98%E7%BA%A7python%E7%88%AC%E8%99%AB%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D",
+                    "tagList": [
+                        {
+                            "tagId": "0",
+                            "tagName": "股份制企业",
+                            "tagType": "gsxz"
+                        }
+                    ],
+                    "recReason": {
+                        "recReasonTip": "低门槛职位，不要错过",
+                        "recReasonIcon": "https://pic1.58cdn.com.cn/nowater/cxnomark/n_v249bbf448520f4d6595d5030e7cda6e86.png",
+                        "recReasonTag": "tjly=2"
+                    },
+                    "companyScale": "100-499人",
+                    "companyIndustry": "其他行业",
+                    "deliveryState": false,
+                    "dispCateName": "Python开发",
+                    "btnType": "delivery",
+                    "jumpCompanyStatus": 1,
+                    "traceLogExt": "{\"scate\":\"9224,13961,12265\",\"infotype\":\"K\",\"b\":5128764749062,\"infolocal\":\"414,416,15339\",\"c\":\"A507542E471A074549460CF007328E0A\",\"euid\":\"5128764749062\",\"sloc\":\"414,416,15371\",\"infocate\":\"574,621,2764\",\"new_catepath\":\"674,413795,413796,413801\",\"new_cate_tag\":1}",
+                    "extendMap": {
+                        "make_up": "3"
+                    }
+                },
+                {
+                    "dataType": "default",
+                    "title": "【雷锋大道】大数据开发工程师",
+                    "cardType": "recommend",
+                    "infoId": "61532999618481",
+                    "localName": "cs",
+                    "listName": "tech",
+                    "fullPath": "9224,13909,391484",
+                    "tjfrom": "applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__4____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTk5NjE4NDgxIiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D",
+                    "action": "/modules/job/pages/detail/index?infoId=61532999618481&tjfrom=applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__4____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTk5NjE4NDgxIiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E3%80%90%E9%9B%B7%E9%94%8B%E5%A4%A7%E9%81%93%E3%80%91%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D",
+                    "salary": "面议",
+                    "location": "岳麓区·雷锋大道",
+                    "hrInfo": "用户59344",
+                    "companyName": "中科云谷科技有限公司",
+                    "targetUrl": "/modules/job/pages/detail/index?infoId=61532999618481&tjfrom=applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__4____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTk5NjE4NDgxIiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E3%80%90%E9%9B%B7%E9%94%8B%E5%A4%A7%E9%81%93%E3%80%91%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D",
+                    "tagList": [
+                        {
+                            "tagId": "0",
+                            "tagName": "急招",
+                            "tagType": "jizhao"
+                        }
+                    ],
+                    "recReason": {
+                        "recReasonTip": "无需经验可入职，放心投递",
+                        "recReasonIcon": "https://pic1.58cdn.com.cn/nowater/cxnomark/n_v249bbf448520f4d6595d5030e7cda6e86.png",
+                        "recReasonTag": "tjly=2"
+                    },
+                    "companyIndustry": "其他行业",
+                    "deliveryState": false,
+                    "dispCateName": "数据开发",
+                    "btnType": "delivery",
+                    "jumpCompanyStatus": 1,
+                    "traceLogExt": "{\"scate\":\"9224,13909,391484\",\"infotype\":\"K\",\"b\":81302331808042,\"infolocal\":\"414,415,8080\",\"c\":\"A507542E471A074549460CF007328E0A\",\"euid\":\"81302331808042\",\"sloc\":\"414,415,8079\",\"infocate\":\"574,594,5244\",\"new_catepath\":\"674,413795,413957,413961\",\"new_cate_tag\":1}",
+                    "extendMap": {
+                        "make_up": "3"
+                    }
+                },
+                {
+                    "dataType": "default",
+                    "title": "AI大数据平台架构师",
+                    "cardType": "recommend",
+                    "infoId": "61532999539004",
+                    "localName": "cs",
+                    "listName": "tech",
+                    "fullPath": "9224,13909,391484",
+                    "tjfrom": "applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__5____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTk5NTM5MDA0Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D",
+                    "action": "/modules/job/pages/detail/index?infoId=61532999539004&tjfrom=applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__5____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTk5NTM5MDA0Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22AI%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0%E6%9E%B6%E6%9E%84%E5%B8%88%22%7D",
+                    "salary": "面议",
+                    "location": "长沙·望城",
+                    "hrInfo": "用户59344",
+                    "companyName": "中科云谷科技有限公司",
+                    "targetUrl": "/modules/job/pages/detail/index?infoId=61532999539004&tjfrom=applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__5____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTk5NTM5MDA0Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22AI%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0%E6%9E%B6%E6%9E%84%E5%B8%88%22%7D",
+                    "tagList": [
+                        {
+                            "tagId": "0",
+                            "tagName": "急招",
+                            "tagType": "jizhao"
+                        }
+                    ],
+                    "recReason": {
+                        "recReasonTip": "大量招人",
+                        "recReasonIcon": "https://pic1.58cdn.com.cn/nowater/cxnomark/n_v249bbf448520f4d6595d5030e7cda6e86.png",
+                        "recReasonTag": "tjly=2"
+                    },
+                    "companyIndustry": "其他行业",
+                    "deliveryState": false,
+                    "dispCateName": "数据开发",
+                    "btnType": "delivery",
+                    "jumpCompanyStatus": 1,
+                    "traceLogExt": "{\"scate\":\"9224,13909,391484\",\"infotype\":\"K\",\"b\":81302331808042,\"infolocal\":\"414,21590\",\"c\":\"A507542E471A074549460CF007328E0A\",\"euid\":\"81302331808042\",\"sloc\":\"414,21597\",\"infocate\":\"574,594,5244\",\"new_catepath\":\"674,413795,413957,413961\",\"new_cate_tag\":1}",
+                    "extendMap": {
+                        "make_up": "3"
+                    }
+                },
+                {
+                    "dataType": "default",
+                    "title": "大数据架构师(J10615)",
+                    "cardType": "recommend",
+                    "infoId": "61533213868704",
+                    "localName": "cs",
+                    "listName": "tech",
+                    "fullPath": "9224,13909,391484",
+                    "tjfrom": "applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__6____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMzMjEzODY4NzA0Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D",
+                    "action": "/modules/job/pages/detail/index?infoId=61533213868704&tjfrom=applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__6____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMzMjEzODY4NzA0Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9E%B6%E6%9E%84%E5%B8%88%28J10615%29%22%7D",
+                    "salary": "面议",
+                    "location": "岳麓区·雷锋大道",
+                    "hrInfo": "赵女士",
+                    "companyName": "美迈科技有限公司",
+                    "targetUrl": "/modules/job/pages/detail/index?infoId=61533213868704&tjfrom=applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__6____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMzMjEzODY4NzA0Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9E%B6%E6%9E%84%E5%B8%88%28J10615%29%22%7D",
+                    "tagList": [
+                        {
+                            "tagId": "0",
+                            "tagName": "急招",
+                            "tagType": "jizhao"
+                        }
+                    ],
+                    "recReason": {
+                        "recReasonTip": "大量招人",
+                        "recReasonIcon": "https://pic1.58cdn.com.cn/nowater/cxnomark/n_v249bbf448520f4d6595d5030e7cda6e86.png",
+                        "recReasonTag": "tjly=2"
+                    },
+                    "companyScale": "50-99人",
+                    "companyIndustry": "其他行业",
+                    "deliveryState": false,
+                    "dispCateName": "数据开发",
+                    "btnType": "delivery",
+                    "jumpCompanyStatus": 1,
+                    "traceLogExt": "{\"scate\":\"9224,13909,391484\",\"infotype\":\"K\",\"b\":48191415683602,\"infolocal\":\"414,415,8080\",\"c\":\"A507542E471A074549460CF007328E0A\",\"euid\":\"48191415683602\",\"sloc\":\"414,415,8079\",\"infocate\":\"574,594,5244\",\"new_catepath\":\"674,413795,413957,413961\",\"new_cate_tag\":1}",
+                    "extendMap": {
+                        "make_up": "3"
+                    }
+                },
+                {
+                    "dataType": "default",
+                    "title": "【麓谷】高级大数据开发工程师",
+                    "cardType": "recommend",
+                    "infoId": "61533495898772",
+                    "localName": "cs",
+                    "listName": "tech",
+                    "fullPath": "9224,13909,391484",
+                    "tjfrom": "applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__7____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMzNDk1ODk4NzcyIiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D",
+                    "action": "/modules/job/pages/detail/index?infoId=61533495898772&tjfrom=applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__7____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMzNDk1ODk4NzcyIiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E3%80%90%E9%BA%93%E8%B0%B7%E3%80%91%E9%AB%98%E7%BA%A7%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D",
+                    "salary": "面议",
+                    "location": "岳麓区·麓谷",
+                    "hrInfo": "gcxcv_f8",
+                    "companyName": "湖南智慧畅行交通科技有限公司",
+                    "targetUrl": "/modules/job/pages/detail/index?infoId=61533495898772&tjfrom=applet_ykms_jq__124722826228617173351364604__808832695419305984__jingbaoplus__K__7____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMzNDk1ODk4NzcyIiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTI0NzIyODI2MjI4NjE3MTczMzUxMzY0NjA0IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E3%80%90%E9%BA%93%E8%B0%B7%E3%80%91%E9%AB%98%E7%BA%A7%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D",
+                    "tagList": [
+                        {
+                            "tagId": "0",
+                            "tagName": "急招",
+                            "tagType": "jizhao"
+                        }
+                    ],
+                    "recReason": {
+                        "recReasonTip": "大量招人",
+                        "recReasonIcon": "https://pic1.58cdn.com.cn/nowater/cxnomark/n_v249bbf448520f4d6595d5030e7cda6e86.png",
+                        "recReasonTag": "tjly=2"
+                    },
+                    "companyIndustry": "其他行业",
+                    "deliveryState": false,
+                    "dispCateName": "数据开发",
+                    "btnType": "delivery",
+                    "jumpCompanyStatus": 1,
+                    "traceLogExt": "{\"scate\":\"9224,13909,391484\",\"infotype\":\"K\",\"b\":12024778887686,\"infolocal\":\"414,415,8085\",\"c\":\"A507542E471A074549460CF007328E0A\",\"euid\":\"12024778887686\",\"sloc\":\"414,415,8084\",\"infocate\":\"574,594,5244\",\"new_catepath\":\"674,413795,413957,413961\",\"new_cate_tag\":1}",
+                    "extendMap": {
+                        "make_up": "3"
+                    }
+                }
+            ]
+        }
+    }
+}{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "showType": {
+            "type": "online",
+            "spmShowType": "online",
+            "privateDomainPageShowType": "old"
+        },
+        "jobList": {
+            "searchNum": 8,
+            "lastPage": false,
+            "pid": "808832695419305984",
+            "pageIndex": 1,
+            "slot": "applet_ykms_jq",
+            "traceLog": {
+                "pageType": "mlist",
+                "pid": "808832695419305984",
+                "time": 3000,
+                "targetUrl": "https://zpcollect.58.com/logs/m/58",
+                "open": "1"
+            },
+            "pageType": 1,
+            "infolist": [
+                {
+                    "dataType": "default",
+                    "title": "初级python开发工程师",
+                    "cardType": "recommend",
+                    "infoId": "61532955478448",
+                    "localName": "cs",
+                    "listName": "tech",
+                    "fullPath": "9224,13909,12162",
+                    "tjfrom": "applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTU1NDc4NDQ4Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D",
+                    "action": "/modules/job/pages/detail/index?infoId=61532955478448&tjfrom=applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTU1NDc4NDQ4Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E5%88%9D%E7%BA%A7python%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D",
+                    "salary": "5000-7000元",
+                    "location": "岳麓区·麓谷",
+                    "hrInfo": "用户20971",
+                    "hrPhoto": "https://pic1.58cdn.com.cn/m1/bigimage/n_v246adf37925e3489e813a55e5258ce1f1.jpg",
+                    "companyName": "湖南青咖汇网络科技有限公司",
+                    "targetUrl": "/modules/job/pages/detail/index?infoId=61532955478448&tjfrom=applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__0____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTU1NDc4NDQ4Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E5%88%9D%E7%BA%A7python%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D",
+                    "tagList": [
+                        {
+                            "tagId": "0",
+                            "tagName": "急招",
+                            "tagType": "jizhao"
+                        }
+                    ],
+                    "recReason": {
+                        "recReasonTip": "大量招人",
+                        "recReasonIcon": "https://pic1.58cdn.com.cn/nowater/cxnomark/n_v249bbf448520f4d6595d5030e7cda6e86.png",
+                        "recReasonTag": "tjly=2"
+                    },
+                    "companyScale": "10-49人",
+                    "companyIndustry": "其他行业",
+                    "deliveryState": false,
+                    "dispCateName": "Python开发",
+                    "btnType": "delivery",
+                    "jumpCompanyStatus": 1,
+                    "traceLogExt": "{\"scate\":\"9224,13909,12162\",\"infotype\":\"K\",\"b\":92047928312607,\"infolocal\":\"414,415,8085\",\"c\":\"A507542E471A074549460CF007328E0A\",\"euid\":\"92047928312607\",\"sloc\":\"414,415,8084\",\"infocate\":\"574,594,2201\",\"new_catepath\":\"674,413795,413796,413801\",\"new_cate_tag\":1}",
+                    "extendMap": {
+                        "make_up": "3"
+                    }
+                },
+                {
+                    "dataType": "default",
+                    "title": "【麓谷】python开发工程师",
+                    "cardType": "recommend",
+                    "infoId": "61532955263272",
+                    "localName": "cs",
+                    "listName": "tech",
+                    "fullPath": "9224,13909,12162",
+                    "tjfrom": "applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__1____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTU1MjYzMjcyIiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D",
+                    "action": "/modules/job/pages/detail/index?infoId=61532955263272&tjfrom=applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__1____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTU1MjYzMjcyIiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E3%80%90%E9%BA%93%E8%B0%B7%E3%80%91python%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D",
+                    "salary": "8000-13000元",
+                    "location": "岳麓区·麓谷",
+                    "hrInfo": "用户20971",
+                    "hrPhoto": "https://pic1.58cdn.com.cn/m1/bigimage/n_v246adf37925e3489e813a55e5258ce1f1.jpg",
+                    "companyName": "湖南青咖汇网络科技有限公司",
+                    "targetUrl": "/modules/job/pages/detail/index?infoId=61532955263272&tjfrom=applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__1____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTU1MjYzMjcyIiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E3%80%90%E9%BA%93%E8%B0%B7%E3%80%91python%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D",
+                    "tagList": [
+                        {
+                            "tagId": "0",
+                            "tagName": "急招",
+                            "tagType": "jizhao"
+                        }
+                    ],
+                    "recReason": {
+                        "recReasonTip": "无需经验可入职，放心投递",
+                        "recReasonIcon": "https://pic1.58cdn.com.cn/nowater/cxnomark/n_v249bbf448520f4d6595d5030e7cda6e86.png",
+                        "recReasonTag": "tjly=2"
+                    },
+                    "companyScale": "10-49人",
+                    "companyIndustry": "其他行业",
+                    "deliveryState": false,
+                    "dispCateName": "Python开发",
+                    "btnType": "delivery",
+                    "jumpCompanyStatus": 1,
+                    "traceLogExt": "{\"scate\":\"9224,13909,12162\",\"infotype\":\"K\",\"b\":92047928312607,\"infolocal\":\"414,415,8085\",\"c\":\"A507542E471A074549460CF007328E0A\",\"euid\":\"92047928312607\",\"sloc\":\"414,415,8084\",\"infocate\":\"574,594,2201\",\"new_catepath\":\"674,413795,413796,413801\",\"new_cate_tag\":1}",
+                    "extendMap": {
+                        "make_up": "3"
+                    }
+                },
+                {
+                    "dataType": "default",
+                    "title": "【雷锋大道】大数据开发工程师",
+                    "cardType": "recommend",
+                    "infoId": "61532995164839",
+                    "localName": "cs",
+                    "listName": "tech",
+                    "fullPath": "9224,13909,391484",
+                    "tjfrom": "applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__2____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTk1MTY0ODM5Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D",
+                    "action": "/modules/job/pages/detail/index?infoId=61532995164839&tjfrom=applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__2____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTk1MTY0ODM5Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E3%80%90%E9%9B%B7%E9%94%8B%E5%A4%A7%E9%81%93%E3%80%91%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D",
+                    "salary": "面议",
+                    "location": "岳麓区·雷锋大道",
+                    "hrInfo": "用户59344",
+                    "companyName": "中科云谷科技有限公司",
+                    "targetUrl": "/modules/job/pages/detail/index?infoId=61532995164839&tjfrom=applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__2____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTk1MTY0ODM5Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E3%80%90%E9%9B%B7%E9%94%8B%E5%A4%A7%E9%81%93%E3%80%91%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D",
+                    "tagList": [
+                        {
+                            "tagId": "0",
+                            "tagName": "急招",
+                            "tagType": "jizhao"
+                        }
+                    ],
+                    "recReason": {
+                        "recReasonTip": "无需经验可入职，放心投递",
+                        "recReasonIcon": "https://pic1.58cdn.com.cn/nowater/cxnomark/n_v249bbf448520f4d6595d5030e7cda6e86.png",
+                        "recReasonTag": "tjly=2"
+                    },
+                    "companyIndustry": "其他行业",
+                    "deliveryState": false,
+                    "dispCateName": "数据开发",
+                    "btnType": "delivery",
+                    "jumpCompanyStatus": 1,
+                    "traceLogExt": "{\"scate\":\"9224,13909,391484\",\"infotype\":\"K\",\"b\":81302331808042,\"infolocal\":\"414,415,8080\",\"c\":\"A507542E471A074549460CF007328E0A\",\"euid\":\"81302331808042\",\"sloc\":\"414,415,8079\",\"infocate\":\"574,594,5244\",\"new_catepath\":\"674,413795,413957,413961\",\"new_cate_tag\":1}",
+                    "extendMap": {
+                        "make_up": "3"
+                    }
+                },
+                {
+                    "dataType": "default",
+                    "title": "【雷锋大道】大数据开发工程师",
+                    "cardType": "recommend",
+                    "infoId": "61532999439105",
+                    "localName": "cs",
+                    "listName": "tech",
+                    "fullPath": "9224,13909,391484",
+                    "tjfrom": "applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__3____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTk5NDM5MTA1Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D",
+                    "action": "/modules/job/pages/detail/index?infoId=61532999439105&tjfrom=applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__3____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTk5NDM5MTA1Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E3%80%90%E9%9B%B7%E9%94%8B%E5%A4%A7%E9%81%93%E3%80%91%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D",
+                    "salary": "10000-15000元",
+                    "location": "岳麓区·雷锋大道",
+                    "hrInfo": "用户59344",
+                    "companyName": "中科云谷科技有限公司",
+                    "targetUrl": "/modules/job/pages/detail/index?infoId=61532999439105&tjfrom=applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__3____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMyOTk5NDM5MTA1Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E3%80%90%E9%9B%B7%E9%94%8B%E5%A4%A7%E9%81%93%E3%80%91%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D",
+                    "tagList": [
+                        {
+                            "tagId": "0",
+                            "tagName": "急招",
+                            "tagType": "jizhao"
+                        }
+                    ],
+                    "recReason": {
+                        "recReasonTip": "大量招人",
+                        "recReasonIcon": "https://pic1.58cdn.com.cn/nowater/cxnomark/n_v249bbf448520f4d6595d5030e7cda6e86.png",
+                        "recReasonTag": "tjly=2"
+                    },
+                    "companyIndustry": "其他行业",
+                    "deliveryState": false,
+                    "dispCateName": "数据开发",
+                    "btnType": "delivery",
+                    "jumpCompanyStatus": 1,
+                    "traceLogExt": "{\"scate\":\"9224,13909,391484\",\"infotype\":\"K\",\"b\":81302331808042,\"infolocal\":\"414,415,8080\",\"c\":\"A507542E471A074549460CF007328E0A\",\"euid\":\"81302331808042\",\"sloc\":\"414,415,8079\",\"infocate\":\"574,594,5244\",\"new_catepath\":\"674,413795,413957,413961\",\"new_cate_tag\":1}",
+                    "extendMap": {
+                        "make_up": "3"
+                    }
+                },
+                {
+                    "dataType": "default",
+                    "title": "大数据架构师(J10782)",
+                    "cardType": "recommend",
+                    "infoId": "61533218330287",
+                    "localName": "cs",
+                    "listName": "tech",
+                    "fullPath": "9224,13909,391484",
+                    "tjfrom": "applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__4____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMzMjE4MzMwMjg3Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D",
+                    "action": "/modules/job/pages/detail/index?infoId=61533218330287&tjfrom=applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__4____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMzMjE4MzMwMjg3Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9E%B6%E6%9E%84%E5%B8%88%28J10782%29%22%7D",
+                    "salary": "面议",
+                    "location": "岳麓区·雷锋大道",
+                    "hrInfo": "赵女士",
+                    "companyName": "美迈科技有限公司",
+                    "targetUrl": "/modules/job/pages/detail/index?infoId=61533218330287&tjfrom=applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__4____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMzMjE4MzMwMjg3Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9E%B6%E6%9E%84%E5%B8%88%28J10782%29%22%7D",
+                    "tagList": [
+                        {
+                            "tagId": "0",
+                            "tagName": "急招",
+                            "tagType": "jizhao"
+                        }
+                    ],
+                    "recReason": {
+                        "recReasonTip": "大量招人",
+                        "recReasonIcon": "https://pic1.58cdn.com.cn/nowater/cxnomark/n_v249bbf448520f4d6595d5030e7cda6e86.png",
+                        "recReasonTag": "tjly=2"
+                    },
+                    "companyScale": "50-99人",
+                    "companyIndustry": "其他行业",
+                    "deliveryState": false,
+                    "dispCateName": "数据开发",
+                    "btnType": "delivery",
+                    "jumpCompanyStatus": 1,
+                    "traceLogExt": "{\"scate\":\"9224,13909,391484\",\"infotype\":\"K\",\"b\":48191415683602,\"infolocal\":\"414,415,8080\",\"c\":\"A507542E471A074549460CF007328E0A\",\"euid\":\"48191415683602\",\"sloc\":\"414,415,8079\",\"infocate\":\"574,594,5244\",\"new_catepath\":\"674,413795,413957,413961\",\"new_cate_tag\":1}",
+                    "extendMap": {
+                        "make_up": "3"
+                    }
+                },
+                {
+                    "dataType": "default",
+                    "title": "大数据开发工程师(J10616)",
+                    "cardType": "recommend",
+                    "infoId": "61533218338709",
+                    "localName": "cs",
+                    "listName": "tech",
+                    "fullPath": "9224,13909,391484",
+                    "tjfrom": "applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__5____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMzMjE4MzM4NzA5Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D",
+                    "action": "/modules/job/pages/detail/index?infoId=61533218338709&tjfrom=applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__5____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMzMjE4MzM4NzA5Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%28J10616%29%22%7D",
+                    "salary": "面议",
+                    "location": "岳麓区·雷锋大道",
+                    "hrInfo": "赵女士",
+                    "companyName": "美迈科技有限公司",
+                    "targetUrl": "/modules/job/pages/detail/index?infoId=61533218338709&tjfrom=applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__5____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNTMzMjE4MzM4NzA5Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%28J10616%29%22%7D",
+                    "tagList": [
+                        {
+                            "tagId": "0",
+                            "tagName": "急招",
+                            "tagType": "jizhao"
+                        }
+                    ],
+                    "recReason": {
+                        "recReasonTip": "大量招人",
+                        "recReasonIcon": "https://pic1.58cdn.com.cn/nowater/cxnomark/n_v249bbf448520f4d6595d5030e7cda6e86.png",
+                        "recReasonTag": "tjly=2"
+                    },
+                    "companyScale": "50-99人",
+                    "companyIndustry": "其他行业",
+                    "deliveryState": false,
+                    "dispCateName": "数据开发",
+                    "btnType": "delivery",
+                    "jumpCompanyStatus": 1,
+                    "traceLogExt": "{\"scate\":\"9224,13909,391484\",\"infotype\":\"K\",\"b\":48191415683602,\"infolocal\":\"414,415,8080\",\"c\":\"A507542E471A074549460CF007328E0A\",\"euid\":\"48191415683602\",\"sloc\":\"414,415,8079\",\"infocate\":\"574,594,5244\",\"new_catepath\":\"674,413795,413957,413961\",\"new_cate_tag\":1}",
+                    "extendMap": {
+                        "make_up": "3"
+                    }
+                },
+                {
+                    "dataType": "default",
+                    "title": "其他职位能月入1.5w",
+                    "cardType": "recommend",
+                    "infoId": "61752323426726",
+                    "localName": "cs",
+                    "listName": "zhaopin",
+                    "fullPath": "9224,13961,12265",
+                    "tjfrom": "applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__6____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNzUyMzIzNDI2NzI2Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D",
+                    "action": "/modules/job/pages/detail/index?infoId=61752323426726&tjfrom=applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__6____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNzUyMzIzNDI2NzI2Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E5%85%B6%E4%BB%96%E8%81%8C%E4%BD%8D%E8%83%BD%E6%9C%88%E5%85%A51.5w%22%7D",
+                    "salary": "10000-15000元",
+                    "location": "岳麓区·雷锋大道",
+                    "hrInfo": "黄先生",
+                    "companyName": "中电湘江数据服务有限公司",
+                    "targetUrl": "/modules/job/pages/detail/index?infoId=61752323426726&tjfrom=applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__6____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNzUyMzIzNDI2NzI2Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E5%85%B6%E4%BB%96%E8%81%8C%E4%BD%8D%E8%83%BD%E6%9C%88%E5%85%A51.5w%22%7D",
+                    "tagList": [
+                        {
+                            "tagId": "0",
+                            "tagName": "急招",
+                            "tagType": "jizhao"
+                        }
+                    ],
+                    "recReason": {
+                        "recReasonTip": "无需经验可入职，放心投递",
+                        "recReasonIcon": "https://pic1.58cdn.com.cn/nowater/cxnomark/n_v249bbf448520f4d6595d5030e7cda6e86.png",
+                        "recReasonTag": "tjly=2"
+                    },
+                    "companyIndustry": "其他行业",
+                    "deliveryState": false,
+                    "dispCateName": "数据开发",
+                    "btnType": "delivery",
+                    "jumpCompanyStatus": 1,
+                    "traceLogExt": "{\"scate\":\"9224,13961,12265\",\"infotype\":\"K\",\"b\":38633365573390,\"infolocal\":\"414,415,8080\",\"c\":\"A507542E471A074549460CF007328E0A\",\"euid\":\"38633365573390\",\"sloc\":\"414,415,8079\",\"infocate\":\"574,621,2764\",\"new_catepath\":\"674,413795,413957,413961\",\"new_cate_tag\":1}",
+                    "extendMap": {
+                        "make_up": "3"
+                    }
+                },
+                {
+                    "dataType": "default",
+                    "title": "【雷锋大道】数据库开发工程师",
+                    "cardType": "recommend",
+                    "infoId": "61752626908695",
+                    "localName": "cs",
+                    "listName": "tech",
+                    "fullPath": "9224,13909,391484",
+                    "tjfrom": "applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__7____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNzUyNjI2OTA4Njk1Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D",
+                    "action": "/modules/job/pages/detail/index?infoId=61752626908695&tjfrom=applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__7____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNzUyNjI2OTA4Njk1Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E3%80%90%E9%9B%B7%E9%94%8B%E5%A4%A7%E9%81%93%E3%80%91%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D",
+                    "salary": "120-150元",
+                    "location": "岳麓区·雷锋大道",
+                    "hrInfo": "招聘专员",
+                    "companyName": "中电湘江数据服务有限公司",
+                    "targetUrl": "/modules/job/pages/detail/index?infoId=61752626908695&tjfrom=applet_ykms_jq__196512644228617177837708428__808832695419305984__jingbaoplus__K__7____null__eyJyIjp7InNwbSI6IiIsImluZm9pZCI6IjYxNzUyNjI2OTA4Njk1Iiwic2xvdCI6ImFwcGxldF95a21zX2pxIiwidHlwZSI6ImppbmdiYW9wbHVzIiwic2lkIjoiMTk2NTEyNjQ0MjI4NjE3MTc3ODM3NzA4NDI4IiwidXRtIjoiIn0sInQiOjEsInYiOjEsInciOnsicGFnZUlkIjpudWxsfX0%3D&params=%7B%22title%22%3A%22%E3%80%90%E9%9B%B7%E9%94%8B%E5%A4%A7%E9%81%93%E3%80%91%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D",
+                    "tagList": [
+                        {
+                            "tagId": "0",
+                            "tagName": "急招",
+                            "tagType": "jizhao"
+                        }
+                    ],
+                    "recReason": {
+                        "recReasonTip": "无需经验可入职，放心投递",
+                        "recReasonIcon": "https://pic1.58cdn.com.cn/nowater/cxnomark/n_v249bbf448520f4d6595d5030e7cda6e86.png",
+                        "recReasonTag": "tjly=2"
+                    },
+                    "companyIndustry": "其他行业",
+                    "deliveryState": false,
+                    "dispCateName": "数据开发",
+                    "btnType": "delivery",
+                    "jumpCompanyStatus": 1,
+                    "traceLogExt": "{\"scate\":\"9224,13909,391484\",\"infotype\":\"K\",\"b\":110827562577156,\"infolocal\":\"414,415,8080\",\"c\":\"A507542E471A074549460CF007328E0A\",\"euid\":\"110827562577156\",\"sloc\":\"414,415,8079\",\"infocate\":\"574,594,5244\",\"new_catepath\":\"674,413795,413957,413961\",\"new_cate_tag\":1}",
+                    "extendMap": {
+                        "make_up": "3"
+                    }
+                }
+            ]
+        }
+    }
+}
