@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input id="box" type="text">
+<button onclick="ps()">发送</button>
+
+<script>
+
+    // 与服务器约定的连接 以及端口  本机的   hosts文件  localhost      www.ps.com
+    const websocket = new WebSocket('ws://127.0.0.1:8080/')
+
+    //连接发生错误的回调方法
+    websocket.onerror = () => {
+        console.log("WebSocket连接发生错误");
+    };
+
+    //连接成功建立的回调方法
+    websocket.onopen = function () {
+        console.log("WebSocket连接成功");
+    }
+
+    //接收到消息的回调方法  接收服务器的数据
+    websocket.onmessage = function (event) {
+        console.log(event.data);
+    }
+
+    //连接关闭的回调方法
+    websocket.onclose = function () {
+        console.log("WebSocket连接关闭");
+    }
+
+    function ps() {
+        var text = document.getElementById('box').value;
+        if (websocket.readyState === WebSocket.OPEN) {
+            websocket.send(text);
+        } else {
+            console.log("WebSocket 连接尚未建立或已关闭");
+        }
+    }
+
+
+</script>
+</body>
+</html>
